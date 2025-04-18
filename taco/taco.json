@@ -1,0 +1,4778 @@
+[
+  {
+    "name": "arroz, integral, cozido",
+    "originalName": "Arroz, integral, cozido",
+    "energy": 123.53489250000001,
+    "protein": 2.58825,
+    "fat": 1.0003333333333333,
+    "carbs": 25.80975
+  },
+  {
+    "name": "arroz, integral, cru",
+    "originalName": "Arroz, integral, cru",
+    "energy": 359.6780020326088,
+    "protein": 7.323285869565217,
+    "fat": 1.8648333333333333,
+    "carbs": 77.45071413043479
+  },
+  {
+    "name": "arroz, tipo 1, cozido",
+    "originalName": "Arroz, tipo 1, cozido",
+    "energy": 128.25848566666664,
+    "protein": 2.5208166666666667,
+    "fat": 0.22699999999999998,
+    "carbs": 28.059849999999994
+  },
+  {
+    "name": "arroz, tipo 1, cru",
+    "originalName": "Arroz, tipo 1, cru",
+    "energy": 357.789273115942,
+    "protein": 7.158539855072464,
+    "fat": 0.335,
+    "carbs": 78.75954347826087
+  },
+  {
+    "name": "arroz, tipo 2, cozido",
+    "originalName": "Arroz, tipo 2, cozido",
+    "energy": 130.11964833333332,
+    "protein": 2.568416666666667,
+    "fat": 0.36166666666666664,
+    "carbs": 28.19258333333333
+  },
+  {
+    "name": "arroz, tipo 2, cru",
+    "originalName": "Arroz, tipo 2, cru",
+    "energy": 358.1167614565217,
+    "protein": 7.241882971014494,
+    "fat": 0.2755,
+    "carbs": 78.88145036231883
+  },
+  {
+    "name": "aveia, flocos, crua",
+    "originalName": "Aveia, flocos, crua",
+    "energy": 393.82268944927546,
+    "protein": 13.921026086956523,
+    "fat": 8.496666666666666,
+    "carbs": 66.63564057971016
+  },
+  {
+    "name": "biscoito, doce, maisena",
+    "originalName": "Biscoito, doce, maisena",
+    "energy": 442.8193901449275,
+    "protein": 8.072521739130433,
+    "fat": 11.966666666666669,
+    "carbs": 75.23414492753622
+  },
+  {
+    "name": "biscoito, doce, recheado com chocolate",
+    "originalName": "Biscoito, doce, recheado com chocolate",
+    "energy": 471.824779710145,
+    "protein": 6.397217391304348,
+    "fat": 19.583333333333332,
+    "carbs": 70.54944927536232
+  },
+  {
+    "name": "biscoito, doce, recheado com morango",
+    "originalName": "Biscoito, doce, recheado com morango",
+    "energy": 471.1747362318841,
+    "protein": 5.719826086956521,
+    "fat": 19.573333333333334,
+    "carbs": 71.01350724637682
+  },
+  {
+    "name": "biscoito, doce, wafer, recheado de chocolate",
+    "originalName": "Biscoito, doce, wafer, recheado de chocolate",
+    "energy": 502.4568579710144,
+    "protein": 5.564521739130435,
+    "fat": 24.673333333333332,
+    "carbs": 67.53547826086955
+  },
+  {
+    "name": "biscoito, doce, wafer, recheado de morango",
+    "originalName": "Biscoito, doce, wafer, recheado de morango",
+    "energy": 513.4461826086956,
+    "protein": 4.517043478260871,
+    "fat": 26.4,
+    "carbs": 67.35295652173913
+  },
+  {
+    "name": "biscoito, salgado, cream cracker",
+    "originalName": "Biscoito, salgado, cream cracker",
+    "energy": 431.73228115942027,
+    "protein": 10.055130434782608,
+    "fat": 14.436666666666667,
+    "carbs": 68.73153623188405
+  },
+  {
+    "name": "bolo, mistura para",
+    "originalName": "Bolo, mistura para",
+    "energy": 418.6333333333333,
+    "protein": 6.159420289855073,
+    "fat": 6.126666666666666,
+    "carbs": 84.71391304347826
+  },
+  {
+    "name": "bolo, pronto, aipim",
+    "originalName": "Bolo, pronto, aipim",
+    "energy": 323.85166666666663,
+    "protein": 4.416666666666667,
+    "fat": 12.747666666666667,
+    "carbs": 47.864
+  },
+  {
+    "name": "bolo, pronto, chocolate",
+    "originalName": "Bolo, pronto, chocolate",
+    "energy": 410.01366666666667,
+    "protein": 6.222916666666666,
+    "fat": 18.472333333333335,
+    "carbs": 54.71775
+  },
+  {
+    "name": "bolo, pronto, coco",
+    "originalName": "Bolo, pronto, coco",
+    "energy": 333.4376666666667,
+    "protein": 5.666666666666666,
+    "fat": 11.296333333333331,
+    "carbs": 52.276
+  },
+  {
+    "name": "bolo, pronto, milho",
+    "originalName": "Bolo, pronto, milho",
+    "energy": 311.387,
+    "protein": 4.804166666666667,
+    "fat": 12.415,
+    "carbs": 45.10883333333334
+  },
+  {
+    "name": "canjica, branca, crua",
+    "originalName": "Canjica, branca, crua",
+    "energy": 357.60258999999996,
+    "protein": 7.2,
+    "fat": 0.9710000000000001,
+    "carbs": 78.06099999999999
+  },
+  {
+    "name": "canjica, com leite integral",
+    "originalName": "Canjica, com leite integral",
+    "energy": 112.45677722046528,
+    "protein": 2.3606000423431395,
+    "fat": 1.2443333333333335,
+    "carbs": 23.62773329099018
+  },
+  {
+    "name": "cereais, milho, flocos, com sal",
+    "originalName": "Cereais, milho, flocos, com sal",
+    "energy": 369.59975000000003,
+    "protein": 7.291666666666667,
+    "fat": 1.6033333333333335,
+    "carbs": 80.835
+  },
+  {
+    "name": "cereais, milho, flocos, sem sal",
+    "originalName": "Cereais, milho, flocos, sem sal",
+    "energy": 363.3383166666666,
+    "protein": 6.875,
+    "fat": 1.1833333333333333,
+    "carbs": 80.44833333333334
+  },
+  {
+    "name": "cereais, mingau, milho, infantil",
+    "originalName": "Cereais, mingau, milho, infantil",
+    "energy": 394.42752173913044,
+    "protein": 6.431159420289855,
+    "fat": 1.0933333333333335,
+    "carbs": 87.26550724637681
+  },
+  {
+    "name": "cereais, mistura para vitamina, trigo, cevada e aveia",
+    "originalName": "Cereais, mistura para vitamina, trigo, cevada e aveia",
+    "energy": 381.1333333333333,
+    "protein": 8.895833333333332,
+    "fat": 2.12,
+    "carbs": 81.6175
+  },
+  {
+    "name": "cereal matinal, milho",
+    "originalName": "Cereal matinal, milho",
+    "energy": 365.354163768116,
+    "protein": 7.155797101449275,
+    "fat": 0.9566666666666667,
+    "carbs": 83.82420289855072
+  },
+  {
+    "name": "cereal matinal, milho, acucar",
+    "originalName": "Cereal matinal, milho, açúcar",
+    "energy": 376.55525362318843,
+    "protein": 4.742753623188407,
+    "fat": 0.6666666666666666,
+    "carbs": 88.84057971014492
+  },
+  {
+    "name": "creme de arroz, po",
+    "originalName": "Creme de arroz, pó",
+    "energy": 386.00119033639794,
+    "protein": 7.026949774742127,
+    "fat": 1.2260000000000002,
+    "carbs": 83.86938355859121
+  },
+  {
+    "name": "creme de milho, po",
+    "originalName": "Creme de milho, pó",
+    "energy": 333.03419267054403,
+    "protein": 4.820833333333333,
+    "fat": 1.639333333333333,
+    "carbs": 86.1485
+  },
+  {
+    "name": "curau, milho verde",
+    "originalName": "Curau, milho verde",
+    "energy": 78.43381831365585,
+    "protein": 2.3606000423431395,
+    "fat": 1.6369999999999998,
+    "carbs": 13.944399957656858
+  },
+  {
+    "name": "curau, milho verde, mistura para",
+    "originalName": "Curau, milho verde, mistura para",
+    "energy": 402.28657743531465,
+    "protein": 2.2229166666666664,
+    "fat": 13.371333333333334,
+    "carbs": 79.81641666666667
+  },
+  {
+    "name": "farinha, de arroz, enriquecida",
+    "originalName": "Farinha, de arroz, enriquecida",
+    "energy": 363.0564801812235,
+    "protein": 1.2693332926432292,
+    "fat": 0.3,
+    "carbs": 85.50400004069012
+  },
+  {
+    "name": "farinha, de centeio, integral",
+    "originalName": "Farinha, de centeio, integral",
+    "energy": 335.77766279932655,
+    "protein": 12.515066502888997,
+    "fat": 1.7533333333333332,
+    "carbs": 73.29826683044433
+  },
+  {
+    "name": "farinha, de milho, amarela",
+    "originalName": "Farinha, de milho, amarela",
+    "energy": 350.58693322738014,
+    "protein": 7.1875,
+    "fat": 1.4666666666666666,
+    "carbs": 79.07916666666665
+  },
+  {
+    "name": "farinha, de rosca",
+    "originalName": "Farinha, de rosca",
+    "energy": 370.5780966666666,
+    "protein": 11.380999619166056,
+    "fat": 1.4633333333333332,
+    "carbs": 75.78566666666666
+  },
+  {
+    "name": "farinha, de trigo",
+    "originalName": "Farinha, de trigo",
+    "energy": 360.4729785507247,
+    "protein": 9.79078260869565,
+    "fat": 1.366666666666667,
+    "carbs": 75.09255072463769
+  },
+  {
+    "name": "farinha, lactea, de cereais",
+    "originalName": "Farinha, láctea, de cereais",
+    "energy": 414.8505173913043,
+    "protein": 11.87913043478261,
+    "fat": 5.79,
+    "carbs": 77.77086956521738
+  },
+  {
+    "name": "lasanha, massa fresca, cozida",
+    "originalName": "Lasanha, massa fresca, cozida",
+    "energy": 163.76366666666667,
+    "protein": 5.8125,
+    "fat": 1.1583333333333332,
+    "carbs": 32.52216666666667
+  },
+  {
+    "name": "lasanha, massa fresca, crua",
+    "originalName": "Lasanha, massa fresca, crua",
+    "energy": 220.3056666666667,
+    "protein": 7.008333333333333,
+    "fat": 1.3376666666666666,
+    "carbs": 45.05833333333334
+  },
+  {
+    "name": "macarrao, instantaneo",
+    "originalName": "Macarrão, instantâneo",
+    "energy": 435.8647805333334,
+    "protein": 8.79168,
+    "fat": 17.236666666666668,
+    "carbs": 62.431653333333344
+  },
+  {
+    "name": "macarrao, trigo, cru",
+    "originalName": "Macarrão, trigo, cru",
+    "energy": 371.1226130434783,
+    "protein": 9.995652173913044,
+    "fat": 1.3033333333333335,
+    "carbs": 77.94434782608695
+  },
+  {
+    "name": "macarrao, trigo, cru, com ovos",
+    "originalName": "Macarrão, trigo, cru, com ovos",
+    "energy": 370.5671133333334,
+    "protein": 10.320799999999998,
+    "fat": 1.97,
+    "carbs": 76.62253333333335
+  },
+  {
+    "name": "milho, amido, cru",
+    "originalName": "Milho, amido, cru",
+    "energy": 361.36682387826096,
+    "protein": 0.5978260869565217,
+    "fat": "Tr",
+    "carbs": 87.14884391304349
+  },
+  {
+    "name": "milho, fuba, cru",
+    "originalName": "Milho, fubá, cru",
+    "energy": 353.482268115942,
+    "protein": 7.213768115942029,
+    "fat": 1.9033333333333333,
+    "carbs": 78.87289855072463
+  },
+  {
+    "name": "milho, verde, cru",
+    "originalName": "Milho, verde, cru",
+    "energy": 138.166565,
+    "protein": 6.589583333333334,
+    "fat": 0.609,
+    "carbs": 28.555749999999996
+  },
+  {
+    "name": "milho, verde, enlatado, drenado",
+    "originalName": "Milho, verde, enlatado, drenado",
+    "energy": 97.56489420289851,
+    "protein": 3.2282608695652177,
+    "fat": 2.353333333333333,
+    "carbs": 17.135072463768108
+  },
+  {
+    "name": "mingau tradicional, po",
+    "originalName": "Mingau tradicional, pó",
+    "energy": 373.4214666666667,
+    "protein": 0.5833333333333334,
+    "fat": 0.37,
+    "carbs": 89.33666666666667
+  },
+  {
+    "name": "pamonha, barra para cozimento, pre-cozida",
+    "originalName": "Pamonha, barra para cozimento, pré-cozida",
+    "energy": 171.2191116666667,
+    "protein": 2.5520833333333335,
+    "fat": 4.849666666666667,
+    "carbs": 30.68491666666667
+  },
+  {
+    "name": "pao, aveia, forma",
+    "originalName": "Pão, aveia, forma",
+    "energy": 343.0853666666667,
+    "protein": 12.35,
+    "fat": 5.693333333333334,
+    "carbs": 59.56666666666666
+  },
+  {
+    "name": "pao, de soja",
+    "originalName": "Pão, de soja",
+    "energy": 308.7263233333333,
+    "protein": 11.343,
+    "fat": 3.58,
+    "carbs": 56.510333333333335
+  },
+  {
+    "name": "pao, gluten, forma",
+    "originalName": "Pão, glúten, forma",
+    "energy": 252.99402999999998,
+    "protein": 11.950999600092567,
+    "fat": 2.7266666666666666,
+    "carbs": 44.11899999999999
+  },
+  {
+    "name": "pao, milho, forma",
+    "originalName": "Pão, milho, forma",
+    "energy": 292.01349,
+    "protein": 8.303,
+    "fat": 3.11,
+    "carbs": 56.397
+  },
+  {
+    "name": "pao, trigo, forma, integral",
+    "originalName": "Pão, trigo, forma, integral",
+    "energy": 253.19361833333332,
+    "protein": 9.425166666666666,
+    "fat": 3.6533333333333338,
+    "carbs": 49.9415
+  },
+  {
+    "name": "pao, trigo, frances",
+    "originalName": "Pão, trigo, francês",
+    "energy": 299.8101504347826,
+    "protein": 7.953565217391304,
+    "fat": 3.1033333333333335,
+    "carbs": 58.646434782608694
+  },
+  {
+    "name": "pao, trigo, sovado",
+    "originalName": "Pão, trigo, sovado",
+    "energy": 310.96494,
+    "protein": 8.398,
+    "fat": 2.84,
+    "carbs": 61.452
+  },
+  {
+    "name": "pastel, de carne, cru",
+    "originalName": "Pastel, de carne, cru",
+    "energy": 288.70207151598953,
+    "protein": 10.74069964059194,
+    "fat": 8.793,
+    "carbs": 42.01663369274139
+  },
+  {
+    "name": "pastel, de carne, frito",
+    "originalName": "Pastel, de carne, frito",
+    "energy": 388.37465162496756,
+    "protein": 10.104199661890666,
+    "fat": 20.136666666666667,
+    "carbs": 43.76780033810934
+  },
+  {
+    "name": "pastel, de queijo, cru",
+    "originalName": "Pastel, de queijo, cru",
+    "energy": 308.4744338873742,
+    "protein": 9.853399670282998,
+    "fat": 9.634666666666666,
+    "carbs": 45.947933663050335
+  },
+  {
+    "name": "pastel, de queijo, frito",
+    "originalName": "Pastel, de queijo, frito",
+    "energy": 422.11208003931927,
+    "protein": 8.709599708557128,
+    "fat": 22.670333333333332,
+    "carbs": 48.1327336247762
+  },
+  {
+    "name": "pastel, massa, crua",
+    "originalName": "Pastel, massa, crua",
+    "energy": 310.2025143333333,
+    "protein": 6.9027,
+    "fat": 5.477,
+    "carbs": 57.379633333333324
+  },
+  {
+    "name": "pastel, massa, frita",
+    "originalName": "Pastel, massa, frita",
+    "energy": 569.6724593333333,
+    "protein": 6.0192000000000005,
+    "fat": 40.86033333333334,
+    "carbs": 49.34313333333334
+  },
+  {
+    "name": "pipoca, com oleo de soja, sem sal",
+    "originalName": "Pipoca, com óleo de soja, sem sal",
+    "energy": 448.334261847198,
+    "protein": 9.927083333333336,
+    "fat": 15.940999999999997,
+    "carbs": 70.31258333333334
+  },
+  {
+    "name": "polenta, pre-cozida",
+    "originalName": "Polenta, pré-cozida",
+    "energy": 102.74116666666669,
+    "protein": 2.291666666666667,
+    "fat": 0.3033333333333333,
+    "carbs": 23.311666666666667
+  },
+  {
+    "name": "torrada, pao frances",
+    "originalName": "Torrada, pão francês",
+    "energy": 377.422283,
+    "protein": 10.524100000000002,
+    "fat": 3.3009999999999997,
+    "carbs": 74.5559
+  },
+  {
+    "name": "abobora, cabotian, cozida",
+    "originalName": "Abóbora, cabotian, cozida",
+    "energy": 48.04374250000001,
+    "protein": 1.44375,
+    "fat": 0.7293333333333333,
+    "carbs": 10.760916666666668
+  },
+  {
+    "name": "abobora, cabotian, crua",
+    "originalName": "Abóbora, cabotian, crua",
+    "energy": 38.59929420289856,
+    "protein": 1.7463768115942029,
+    "fat": 0.5366666666666667,
+    "carbs": 8.360289855072468
+  },
+  {
+    "name": "abobora, menina brasileira, crua",
+    "originalName": "Abóbora, menina brasileira, crua",
+    "energy": 13.605673913043486,
+    "protein": 0.6086956521739131,
+    "fat": "Tr",
+    "carbs": 3.3013043478260893
+  },
+  {
+    "name": "abobora, moranga, crua",
+    "originalName": "Abóbora, moranga, crua",
+    "energy": 12.364436231884042,
+    "protein": 0.9601449275362318,
+    "fat": 0.06,
+    "carbs": 2.6665217391304306
+  },
+  {
+    "name": "abobora, moranga, refogada",
+    "originalName": "Abóbora, moranga, refogada",
+    "energy": 29.003822031756222,
+    "protein": 0.39375,
+    "fat": 0.799,
+    "carbs": 5.981916666666661
+  },
+  {
+    "name": "abobora, pescoco, crua",
+    "originalName": "Abóbora, pescoço, crua",
+    "energy": 24.466267949700352,
+    "protein": 0.6708333333333334,
+    "fat": 0.11599999999999999,
+    "carbs": 6.122833333333339
+  },
+  {
+    "name": "abobrinha, italiana, cozida",
+    "originalName": "Abobrinha, italiana, cozida",
+    "energy": 15.038520000000023,
+    "protein": 1.125,
+    "fat": 0.19899999999999998,
+    "carbs": 2.977000000000007
+  },
+  {
+    "name": "abobrinha, italiana, crua",
+    "originalName": "Abobrinha, italiana, crua",
+    "energy": 19.279126086956484,
+    "protein": 1.141304347826087,
+    "fat": 0.14,
+    "carbs": 4.292028985507236
+  },
+  {
+    "name": "abobrinha, italiana, refogada",
+    "originalName": "Abobrinha, italiana, refogada",
+    "energy": 24.42960218765336,
+    "protein": 1.06875,
+    "fat": 0.8213333333333334,
+    "carbs": 4.18691666666666
+  },
+  {
+    "name": "abobrinha, paulista, crua",
+    "originalName": "Abobrinha, paulista, crua",
+    "energy": 30.810702228816336,
+    "protein": 0.6395833333333333,
+    "fat": 0.139,
+    "carbs": 7.867419999999999
+  },
+  {
+    "name": "acelga, crua",
+    "originalName": "Acelga, crua",
+    "energy": 20.942342499999942,
+    "protein": 1.44375,
+    "fat": 0.106,
+    "carbs": 4.630916666666657
+  },
+  {
+    "name": "agriao, cru",
+    "originalName": "Agrião, cru",
+    "energy": 16.578801449275325,
+    "protein": 2.6884057971014492,
+    "fat": 0.23666666666666666,
+    "carbs": 2.2515942028985423
+  },
+  {
+    "name": "aipo, cru",
+    "originalName": "Aipo, cru",
+    "energy": 19.09145664497062,
+    "protein": 0.7583333333333333,
+    "fat": 0.069,
+    "carbs": 4.272333333333345
+  },
+  {
+    "name": "alface, americana, crua",
+    "originalName": "Alface, americana, crua",
+    "energy": 8.794903236866052,
+    "protein": 0.6083333333333334,
+    "fat": 0.129,
+    "carbs": 1.7453333333333474
+  },
+  {
+    "name": "alface, crespa, crua",
+    "originalName": "Alface, crespa, crua",
+    "energy": 10.68085652173921,
+    "protein": 1.3478260869565217,
+    "fat": 0.16,
+    "carbs": 1.6955072463768253
+  },
+  {
+    "name": "alface, lisa, crua",
+    "originalName": "Alface, lisa, crua",
+    "energy": 13.820901449275343,
+    "protein": 1.6884057971014494,
+    "fat": 0.12333333333333334,
+    "carbs": 2.428260869565218
+  },
+  {
+    "name": "alface, roxa, crua",
+    "originalName": "Alface, roxa, crua",
+    "energy": 12.716997363467993,
+    "protein": 0.90625,
+    "fat": 0.19166666666666665,
+    "carbs": 2.4934166666666613
+  },
+  {
+    "name": "alfavaca, crua",
+    "originalName": "Alfavaca, crua",
+    "energy": 29.183613081057864,
+    "protein": 2.658333333333333,
+    "fat": 0.47633333333333333,
+    "carbs": 5.240999999999999
+  },
+  {
+    "name": "alho, cru",
+    "originalName": "Alho, cru",
+    "energy": 113.12987826086957,
+    "protein": 7.010869565217391,
+    "fat": 0.22,
+    "carbs": 23.905797101449277
+  },
+  {
+    "name": "alho-poro, cru",
+    "originalName": "Alho-poró, cru",
+    "energy": 31.5079193532467,
+    "protein": 1.4125,
+    "fat": 0.1396666666666667,
+    "carbs": 6.878166666666669
+  },
+  {
+    "name": "almeirao, cru",
+    "originalName": "Almeirão, cru",
+    "energy": 18.034428985507237,
+    "protein": 1.7681159420289856,
+    "fat": 0.21666666666666667,
+    "carbs": 3.3352173913043464
+  },
+  {
+    "name": "almeirao, refogado",
+    "originalName": "Almeirão, refogado",
+    "energy": 65.08191082886853,
+    "protein": 1.7041666666666666,
+    "fat": 4.847,
+    "carbs": 5.701499999999994
+  },
+  {
+    "name": "batata, baroa, cozida",
+    "originalName": "Batata, baroa, cozida",
+    "energy": 80.11976250000004,
+    "protein": 0.8520833333333333,
+    "fat": 0.16633333333333333,
+    "carbs": 18.947583333333334
+  },
+  {
+    "name": "batata, baroa, crua",
+    "originalName": "Batata, baroa, crua",
+    "energy": 100.98492318840582,
+    "protein": 1.047101449275362,
+    "fat": 0.17,
+    "carbs": 23.982898550724638
+  },
+  {
+    "name": "batata, doce, cozida",
+    "originalName": "Batata, doce, cozida",
+    "energy": 76.75961050343517,
+    "protein": 0.6416666666666667,
+    "fat": 0.08766666666666667,
+    "carbs": 18.422333333333338
+  },
+  {
+    "name": "batata, doce, crua",
+    "originalName": "Batata, doce, crua",
+    "energy": 118.24137536231882,
+    "protein": 1.257246376811594,
+    "fat": 0.13333333333333333,
+    "carbs": 28.19608695652174
+  },
+  {
+    "name": "batata, frita, tipo chips, industrializada",
+    "originalName": "Batata, frita, tipo chips, industrializada",
+    "energy": 542.7346733841896,
+    "protein": 5.583333333333332,
+    "fat": 36.615,
+    "carbs": 51.22233333333333
+  },
+  {
+    "name": "batata, inglesa, cozida",
+    "originalName": "Batata, inglesa, cozida",
+    "energy": 51.588476636270656,
+    "protein": 1.1645833333333333,
+    "fat": "Tr",
+    "carbs": 11.94375
+  },
+  {
+    "name": "batata, inglesa, crua",
+    "originalName": "Batata, inglesa, crua",
+    "energy": 64.3702260869565,
+    "protein": 1.7717391304347823,
+    "fat": "Tr",
+    "carbs": 14.688260869565212
+  },
+  {
+    "name": "batata, inglesa, frita",
+    "originalName": "Batata, inglesa, frita",
+    "energy": 267.15742250204084,
+    "protein": 4.966666666666667,
+    "fat": 13.108666666666666,
+    "carbs": 35.64033333333333
+  },
+  {
+    "name": "batata, inglesa, saute",
+    "originalName": "Batata, inglesa, sauté",
+    "energy": 67.88793615063032,
+    "protein": 1.2916666666666667,
+    "fat": 0.8963333333333333,
+    "carbs": 14.093000000000005
+  },
+  {
+    "name": "berinjela, cozida",
+    "originalName": "Berinjela, cozida",
+    "energy": 18.845285556813074,
+    "protein": 0.6770833333333334,
+    "fat": 0.14833333333333332,
+    "carbs": 4.468249999999995
+  },
+  {
+    "name": "berinjela, crua",
+    "originalName": "Berinjela, crua",
+    "energy": 19.62775362318839,
+    "protein": 1.221014492753623,
+    "fat": 0.1,
+    "carbs": 4.428985507246369
+  },
+  {
+    "name": "beterraba, cozida",
+    "originalName": "Beterraba, cozida",
+    "energy": 32.15432433140276,
+    "protein": 1.29375,
+    "fat": 0.09266666666666667,
+    "carbs": 7.234916666666663
+  },
+  {
+    "name": "beterraba, crua",
+    "originalName": "Beterraba, crua",
+    "energy": 48.82850869565215,
+    "protein": 1.9456521739130435,
+    "fat": 0.09,
+    "carbs": 11.111014492753624
+  },
+  {
+    "name": "biscoito, polvilho doce",
+    "originalName": "Biscoito, polvilho doce",
+    "energy": 437.54900000000004,
+    "protein": 1.2916666666666667,
+    "fat": 12.249,
+    "carbs": 80.53533333333334
+  },
+  {
+    "name": "brocolis, cozido",
+    "originalName": "Brócolis, cozido",
+    "energy": 24.63616311136879,
+    "protein": 2.1333333333333333,
+    "fat": 0.459,
+    "carbs": 4.366666666666663
+  },
+  {
+    "name": "brocolis, cru",
+    "originalName": "Brócolis, cru",
+    "energy": 25.495131884057955,
+    "protein": 3.6449275362318847,
+    "fat": 0.26666666666666666,
+    "carbs": 4.025072463768115
+  },
+  {
+    "name": "cara, cozido",
+    "originalName": "Cará, cozido",
+    "energy": 77.58491333333336,
+    "protein": 1.5291666666666668,
+    "fat": 0.11233333333333334,
+    "carbs": 18.8525
+  },
+  {
+    "name": "cara, cru",
+    "originalName": "Cará, cru",
+    "energy": 95.6331347826087,
+    "protein": 2.282608695652174,
+    "fat": 0.1366666666666667,
+    "carbs": 22.954057971014496
+  },
+  {
+    "name": "caruru, cru",
+    "originalName": "Caruru, cru",
+    "energy": 34.03162971734997,
+    "protein": 3.2,
+    "fat": 0.585,
+    "carbs": 5.973999999999993
+  },
+  {
+    "name": "catalonha, crua",
+    "originalName": "Catalonha, crua",
+    "energy": 23.888412257373297,
+    "protein": 1.86875,
+    "fat": 0.2823333333333333,
+    "carbs": 4.75224999999999
+  },
+  {
+    "name": "catalonha, refogada",
+    "originalName": "Catalonha, refogada",
+    "energy": 63.449269148826616,
+    "protein": 1.95,
+    "fat": 4.805666666666666,
+    "carbs": 4.809333333333338
+  },
+  {
+    "name": "cebola, crua",
+    "originalName": "Cebola, crua",
+    "energy": 39.420046376811584,
+    "protein": 1.7101449275362322,
+    "fat": 0.08,
+    "carbs": 8.853188405797098
+  },
+  {
+    "name": "cebolinha, crua",
+    "originalName": "Cebolinha, crua",
+    "energy": 19.515885507246438,
+    "protein": 1.865942028985507,
+    "fat": 0.35,
+    "carbs": 3.370724637681165
+  },
+  {
+    "name": "cenoura, cozida",
+    "originalName": "Cenoura, cozida",
+    "energy": 29.86177771015958,
+    "protein": 0.8479166666666668,
+    "fat": 0.21833333333333335,
+    "carbs": 6.686749999999989
+  },
+  {
+    "name": "cenoura, crua",
+    "originalName": "Cenoura, crua",
+    "energy": 34.13538840579714,
+    "protein": 1.322463768115942,
+    "fat": 0.17333333333333334,
+    "carbs": 7.66
+  },
+  {
+    "name": "chicoria, crua",
+    "originalName": "Chicória, crua",
+    "energy": 13.837120289855097,
+    "protein": 1.1376811594202898,
+    "fat": 0.14333333333333334,
+    "carbs": 2.8533333333333437
+  },
+  {
+    "name": "chuchu, cozido",
+    "originalName": "Chuchu, cozido",
+    "energy": 18.53979053137702,
+    "protein": 0.41458333333333336,
+    "fat": "Tr",
+    "carbs": 4.7934166666666655
+  },
+  {
+    "name": "chuchu, cru",
+    "originalName": "Chuchu, cru",
+    "energy": 16.97891884057972,
+    "protein": 0.6992753623188407,
+    "fat": 0.06,
+    "carbs": 4.137391304347834
+  },
+  {
+    "name": "coentro, folhas desidratadas",
+    "originalName": "Coentro, folhas desidratadas",
+    "energy": 309.0707468044758,
+    "protein": 20.875,
+    "fat": 10.386666666666668,
+    "carbs": 47.955
+  },
+  {
+    "name": "couve, manteiga, crua",
+    "originalName": "Couve, manteiga, crua",
+    "energy": 27.05669710144928,
+    "protein": 2.873188405797101,
+    "fat": 0.5466666666666667,
+    "carbs": 4.333478260869559
+  },
+  {
+    "name": "couve, manteiga, refogada ",
+    "originalName": "Couve, manteiga, refogada ",
+    "energy": 90.34481542611123,
+    "protein": 1.6666666666666667,
+    "fat": 6.594,
+    "carbs": 8.707666666666668
+  },
+  {
+    "name": "couve-flor, crua",
+    "originalName": "Couve-flor, crua",
+    "energy": 22.56334927536229,
+    "protein": 1.9057971014492752,
+    "fat": 0.21333333333333335,
+    "carbs": 4.517536231884062
+  },
+  {
+    "name": "couve-flor, cozida",
+    "originalName": "Couve-flor, cozida",
+    "energy": 19.114140614728182,
+    "protein": 1.2395833333333333,
+    "fat": 0.26933333333333337,
+    "carbs": 3.8754166666666765
+  },
+  {
+    "name": "espinafre, nova zelandia, cru",
+    "originalName": "Espinafre, Nova Zelândia, cru",
+    "energy": 16.095694202898525,
+    "protein": 1.996376811594203,
+    "fat": 0.24333333333333332,
+    "carbs": 2.5736231884057963
+  },
+  {
+    "name": "espinafre, nova zelandia, refogado",
+    "originalName": "Espinafre, Nova Zelândia, refogado",
+    "energy": 67.25365175066395,
+    "protein": 2.71875,
+    "fat": 5.434666666666668,
+    "carbs": 4.238583333333339
+  },
+  {
+    "name": "farinha, de mandioca, crua",
+    "originalName": "Farinha, de mandioca, crua",
+    "energy": 360.8696985507246,
+    "protein": 1.5543478260869565,
+    "fat": 0.27666666666666667,
+    "carbs": 87.89898550724637
+  },
+  {
+    "name": "farinha, de mandioca, torrada",
+    "originalName": "Farinha, de mandioca, torrada",
+    "energy": 365.268975,
+    "protein": 1.2291666666666667,
+    "fat": 0.2866666666666667,
+    "carbs": 89.19416666666666
+  },
+  {
+    "name": "farinha, de puba",
+    "originalName": "Farinha, de puba",
+    "energy": 360.17977487993244,
+    "protein": 1.6166666666666667,
+    "fat": 0.46900000000000003,
+    "carbs": 87.28533333333334
+  },
+  {
+    "name": "fecula, de mandioca",
+    "originalName": "Fécula, de mandioca",
+    "energy": 330.85055833333337,
+    "protein": 0.5208333333333333,
+    "fat": 0.2833333333333334,
+    "carbs": 81.14916666666667
+  },
+  {
+    "name": "feijao, broto, cru",
+    "originalName": "Feijão, broto, cru",
+    "energy": 38.723236375411325,
+    "protein": 4.166666666666666,
+    "fat": 0.10266666666666667,
+    "carbs": 7.758333333333329
+  },
+  {
+    "name": "inhame, cru",
+    "originalName": "Inhame, cru",
+    "energy": 96.69983188405796,
+    "protein": 2.0507246376811596,
+    "fat": 0.21333333333333335,
+    "carbs": 23.23260869565217
+  },
+  {
+    "name": "jilo, cru",
+    "originalName": "Jiló, cru",
+    "energy": 27.36514347826087,
+    "protein": 1.4021739130434783,
+    "fat": 0.22,
+    "carbs": 6.191159420289859
+  },
+  {
+    "name": "jurubeba, crua",
+    "originalName": "Jurubeba, crua",
+    "energy": 125.81163499999998,
+    "protein": 4.4125,
+    "fat": 3.9096666666666664,
+    "carbs": 23.059166666666663
+  },
+  {
+    "name": "mandioca, cozida",
+    "originalName": "Mandioca, cozida",
+    "energy": 125.35825000000003,
+    "protein": 0.575,
+    "fat": 0.29833333333333334,
+    "carbs": 30.09
+  },
+  {
+    "name": "mandioca, crua",
+    "originalName": "Mandioca, crua",
+    "energy": 151.4169565217391,
+    "protein": 1.1304347826086958,
+    "fat": 0.3,
+    "carbs": 36.16956521739131
+  },
+  {
+    "name": "mandioca, farofa, temperada",
+    "originalName": "Mandioca, farofa, temperada",
+    "energy": 405.69394166666666,
+    "protein": 2.0625,
+    "fat": 9.12,
+    "carbs": 80.30416666666666
+  },
+  {
+    "name": "mandioca, frita",
+    "originalName": "Mandioca, frita",
+    "energy": 300.0552433891495,
+    "protein": 1.38125,
+    "fat": 11.195,
+    "carbs": 50.251416666666664
+  },
+  {
+    "name": "manjericao, cru",
+    "originalName": "Manjericão, cru",
+    "energy": 21.14767681159422,
+    "protein": 1.985507246376812,
+    "fat": 0.39333333333333337,
+    "carbs": 3.6444927536231915
+  },
+  {
+    "name": "maxixe, cru",
+    "originalName": "Maxixe, cru",
+    "energy": 13.747236086956516,
+    "protein": 1.391304347826087,
+    "fat": 0.073,
+    "carbs": 2.7286956521739105
+  },
+  {
+    "name": "mostarda, folha, crua",
+    "originalName": "Mostarda, folha, crua",
+    "energy": 18.107389052172486,
+    "protein": 2.110416666666667,
+    "fat": 0.16766666666666666,
+    "carbs": 3.2365833333333267
+  },
+  {
+    "name": "nhoque, batata, cozido",
+    "originalName": "Nhoque, batata, cozido",
+    "energy": 180.7752739934126,
+    "protein": 5.8583333333333325,
+    "fat": 1.9433333333333334,
+    "carbs": 36.78
+  },
+  {
+    "name": "nabo, cru",
+    "originalName": "Nabo, cru",
+    "energy": 18.18662463768122,
+    "protein": 1.2028985507246377,
+    "fat": 0.05333333333333334,
+    "carbs": 4.147101449275376
+  },
+  {
+    "name": "palmito, jucara, em conserva",
+    "originalName": "Palmito, juçara, em conserva",
+    "energy": 23.199716434081346,
+    "protein": 1.7916666666666667,
+    "fat": 0.4033333333333333,
+    "carbs": 4.328333333333326
+  },
+  {
+    "name": "palmito, pupunha, em conserva",
+    "originalName": "Palmito, pupunha, em conserva",
+    "energy": 29.43196333333332,
+    "protein": 2.4583333333333335,
+    "fat": 0.45,
+    "carbs": 5.508999999999997
+  },
+  {
+    "name": "pao, de queijo, assado",
+    "originalName": "Pão, de queijo, assado",
+    "energy": 363.07791333333336,
+    "protein": 5.120833333333334,
+    "fat": 24.567333333333334,
+    "carbs": 34.2415
+  },
+  {
+    "name": "pao, de queijo, cru",
+    "originalName": "Pão, de queijo, cru",
+    "energy": 294.538,
+    "protein": 3.6479999999999997,
+    "fat": 13.988666666666667,
+    "carbs": 38.51200000000001
+  },
+  {
+    "name": "pepino, cru",
+    "originalName": "Pepino, cru",
+    "energy": 9.533691304347819,
+    "protein": 0.8695652173913043,
+    "fat": "Tr",
+    "carbs": 2.037101449275353
+  },
+  {
+    "name": "pimentao, amarelo, cru",
+    "originalName": "Pimentão, amarelo, cru",
+    "energy": 27.92745942028985,
+    "protein": 1.2246376811594204,
+    "fat": 0.4366666666666667,
+    "carbs": 5.9620289855072475
+  },
+  {
+    "name": "pimentao, verde, cru",
+    "originalName": "Pimentão, verde, cru",
+    "energy": 21.285881159420292,
+    "protein": 1.0507246376811594,
+    "fat": 0.15,
+    "carbs": 4.892608695652178
+  },
+  {
+    "name": "pimentao, vermelho, cru",
+    "originalName": "Pimentão, vermelho, cru",
+    "energy": 23.28136376811601,
+    "protein": 1.039855072463768,
+    "fat": 0.1466666666666667,
+    "carbs": 5.466811594202911
+  },
+  {
+    "name": "polvilho, doce",
+    "originalName": "Polvilho, doce",
+    "energy": 351.2267333333333,
+    "protein": 0.43,
+    "fat": "Tr",
+    "carbs": 86.77333333333333
+  },
+  {
+    "name": "quiabo, cru",
+    "originalName": "Quiabo, cru",
+    "energy": 29.939262150069077,
+    "protein": 1.91875,
+    "fat": 0.299,
+    "carbs": 6.373916666666666
+  },
+  {
+    "name": "rabanete, cru",
+    "originalName": "Rabanete, cru",
+    "energy": 13.738126086956488,
+    "protein": 1.391304347826087,
+    "fat": 0.07333333333333335,
+    "carbs": 2.7253623188405807
+  },
+  {
+    "name": "repolho, branco, cru",
+    "originalName": "Repolho, branco, cru",
+    "energy": 17.11880289855071,
+    "protein": 0.8768115942028986,
+    "fat": 0.14333333333333334,
+    "carbs": 3.8598550724637692
+  },
+  {
+    "name": "repolho, roxo, cru",
+    "originalName": "Repolho, roxo, cru",
+    "energy": 30.907502954324087,
+    "protein": 1.908333333333333,
+    "fat": 0.06366666666666666,
+    "carbs": 7.204000000000001
+  },
+  {
+    "name": "repolho, roxo, refogado",
+    "originalName": "Repolho, roxo, refogado",
+    "energy": 41.77352528971434,
+    "protein": 1.8020833333333333,
+    "fat": 1.2403333333333333,
+    "carbs": 7.561583333333334
+  },
+  {
+    "name": "rucula, crua",
+    "originalName": "Rúcula, crua",
+    "energy": 13.133256607294062,
+    "protein": 1.7666666666666664,
+    "fat": 0.10733333333333334,
+    "carbs": 2.2196666666666607
+  },
+  {
+    "name": "salsa, crua",
+    "originalName": "Salsa, crua",
+    "energy": 33.424111594202884,
+    "protein": 3.2572463768115942,
+    "fat": 0.61,
+    "carbs": 5.706086956521735
+  },
+  {
+    "name": "seleta de legumes, enlatada",
+    "originalName": "Seleta de legumes, enlatada",
+    "energy": 56.533772463768145,
+    "protein": 3.4202898550724634,
+    "fat": 0.35333333333333333,
+    "carbs": 12.669710144927544
+  },
+  {
+    "name": "serralha, crua",
+    "originalName": "Serralha, crua",
+    "energy": 30.397934166666644,
+    "protein": 2.6729166666666666,
+    "fat": 0.7426666666666666,
+    "carbs": 4.946749999999999
+  },
+  {
+    "name": "taioba, crua",
+    "originalName": "Taioba, crua",
+    "energy": 34.208918333333315,
+    "protein": 2.8958333333333335,
+    "fat": 0.9266666666666667,
+    "carbs": 5.430499999999991
+  },
+  {
+    "name": "tomate, com semente, cru",
+    "originalName": "Tomate, com semente, cru",
+    "energy": 15.335156521739158,
+    "protein": 1.0978260869565217,
+    "fat": 0.17333333333333334,
+    "carbs": 3.138840579710146
+  },
+  {
+    "name": "tomate, extrato",
+    "originalName": "Tomate, extrato",
+    "energy": 60.93343365217388,
+    "protein": 2.4347826086956523,
+    "fat": 0.19,
+    "carbs": 14.95861739130434
+  },
+  {
+    "name": "tomate, molho industrializado",
+    "originalName": "Tomate, molho industrializado",
+    "energy": 38.446549460490566,
+    "protein": 1.375,
+    "fat": 0.9033333333333333,
+    "carbs": 7.711666666666678
+  },
+  {
+    "name": "tomate, pure",
+    "originalName": "Tomate, purê",
+    "energy": 27.93687971014494,
+    "protein": 1.36231884057971,
+    "fat": "Tr",
+    "carbs": 6.894347826086953
+  },
+  {
+    "name": "tomate, salada",
+    "originalName": "Tomate, salada",
+    "energy": 20.546909166666637,
+    "protein": 0.8104166666666668,
+    "fat": "Tr",
+    "carbs": 5.117916666666662
+  },
+  {
+    "name": "vagem, crua",
+    "originalName": "Vagem, crua",
+    "energy": 24.898357971014487,
+    "protein": 1.786231884057971,
+    "fat": 0.17333333333333334,
+    "carbs": 5.347101449275358
+  },
+  {
+    "name": "abacate, cru",
+    "originalName": "Abacate, cru",
+    "energy": 96.1547086956522,
+    "protein": 1.2391304347826086,
+    "fat": 8.396666666666667,
+    "carbs": 6.0308695652173965
+  },
+  {
+    "name": "abacaxi, cru",
+    "originalName": "Abacaxi, cru",
+    "energy": 48.32221304347824,
+    "protein": 0.8586956521739131,
+    "fat": 0.12333333333333334,
+    "carbs": 12.33463768115941
+  },
+  {
+    "name": "abacaxi, polpa, congelada",
+    "originalName": "Abacaxi, polpa, congelada",
+    "energy": 30.591799194335923,
+    "protein": 0.4666666666666666,
+    "fat": 0.11333333333333333,
+    "carbs": 7.798666666666662
+  },
+  {
+    "name": "abiu, cru",
+    "originalName": "Abiu, cru",
+    "energy": 62.42409840854006,
+    "protein": 0.8333333333333334,
+    "fat": 0.7033333333333333,
+    "carbs": 14.926999999999998
+  },
+  {
+    "name": "acai, polpa, com xarope de guarana e glucose",
+    "originalName": "Açaí, polpa, com xarope de guaraná e glucose",
+    "energy": 110.29759000000001,
+    "protein": 0.7208333333333334,
+    "fat": 3.6603333333333334,
+    "carbs": 21.45516666666667
+  },
+  {
+    "name": "acai, polpa, congelada",
+    "originalName": "Açaí, polpa, congelada",
+    "energy": 58.04536887282133,
+    "protein": 0.7979166666666667,
+    "fat": 3.9443333333333332,
+    "carbs": 6.2084166666666665
+  },
+  {
+    "name": "acerola, crua",
+    "originalName": "Acerola, crua",
+    "energy": 33.46227000000003,
+    "protein": 0.90625,
+    "fat": 0.20766666666666667,
+    "carbs": 7.966416666666672
+  },
+  {
+    "name": "acerola, polpa, congelada",
+    "originalName": "Acerola, polpa, congelada",
+    "energy": 21.936799999999977,
+    "protein": 0.5916666666666668,
+    "fat": "Tr",
+    "carbs": 5.541333333333331
+  },
+  {
+    "name": "ameixa, calda, enlatada ",
+    "originalName": "Ameixa, calda, enlatada ",
+    "energy": 182.84662000000003,
+    "protein": 0.4083333333333334,
+    "fat": "Tr",
+    "carbs": 46.89266666666667
+  },
+  {
+    "name": "ameixa, crua",
+    "originalName": "Ameixa, crua",
+    "energy": 52.54248260869565,
+    "protein": 0.7717391304347826,
+    "fat": "Tr",
+    "carbs": 13.851594202898553
+  },
+  {
+    "name": "ameixa, em calda, enlatada, drenada ",
+    "originalName": "Ameixa, em calda, enlatada, drenada ",
+    "energy": 177.35918531537055,
+    "protein": 1.025,
+    "fat": 0.2803333333333333,
+    "carbs": 47.658
+  },
+  {
+    "name": "atemoia, crua",
+    "originalName": "Atemóia, crua",
+    "energy": 96.97158744792144,
+    "protein": 0.9708333333333332,
+    "fat": 0.30033333333333334,
+    "carbs": 25.332166666666662
+  },
+  {
+    "name": "banana, da terra, crua",
+    "originalName": "Banana, da terra, crua",
+    "energy": 128.02445217391306,
+    "protein": 1.4347826086956523,
+    "fat": 0.24,
+    "carbs": 33.66521739130435
+  },
+  {
+    "name": "banana, doce em barra",
+    "originalName": "Banana, doce em barra",
+    "energy": 280.10519255063934,
+    "protein": 2.16875,
+    "fat": 0.05,
+    "carbs": 75.66658333333334
+  },
+  {
+    "name": "banana, figo, crua",
+    "originalName": "Banana, figo, crua",
+    "energy": 105.08265000000002,
+    "protein": 1.13125,
+    "fat": 0.1416666666666667,
+    "carbs": 27.80441666666667
+  },
+  {
+    "name": "banana, maca, crua",
+    "originalName": "Banana, maçã, crua",
+    "energy": 86.80533043478259,
+    "protein": 1.7536231884057971,
+    "fat": 0.06,
+    "carbs": 22.3363768115942
+  },
+  {
+    "name": "banana, nanica, crua",
+    "originalName": "Banana, nanica, crua",
+    "energy": 91.52884782608696,
+    "protein": 1.3985507246376814,
+    "fat": 0.11666666666666665,
+    "carbs": 23.848115942028986
+  },
+  {
+    "name": "banana, ouro, crua",
+    "originalName": "Banana, ouro, crua",
+    "energy": 112.36604782608694,
+    "protein": 1.4818840579710144,
+    "fat": 0.21,
+    "carbs": 29.341449275362308
+  },
+  {
+    "name": "banana, pacova, crua",
+    "originalName": "Banana, pacova, crua",
+    "energy": 77.90952792507412,
+    "protein": 1.2270833333333333,
+    "fat": 0.079,
+    "carbs": 20.312583333333333
+  },
+  {
+    "name": "banana, prata, crua",
+    "originalName": "Banana, prata, crua",
+    "energy": 98.24970217391306,
+    "protein": 1.2681159420289856,
+    "fat": 0.065,
+    "carbs": 25.956884057971017
+  },
+  {
+    "name": "cacau, cru",
+    "originalName": "Cacau, cru",
+    "energy": 74.29148000000004,
+    "protein": 0.9541666666666665,
+    "fat": 0.144,
+    "carbs": 19.411166666666677
+  },
+  {
+    "name": "caja-manga, cru",
+    "originalName": "Cajá-Manga, cru",
+    "energy": 45.58096877372266,
+    "protein": 1.2791666666666666,
+    "fat": "Tr",
+    "carbs": 11.434166666666664
+  },
+  {
+    "name": "caja, polpa, congelada",
+    "originalName": "Cajá, polpa, congelada",
+    "energy": 26.332269311050553,
+    "protein": 0.5895833333333333,
+    "fat": 0.16766666666666666,
+    "carbs": 6.374416666666661
+  },
+  {
+    "name": "caju, cru",
+    "originalName": "Caju, cru",
+    "energy": 43.065068521739114,
+    "protein": 0.9710144927536233,
+    "fat": 0.33,
+    "carbs": 10.288988840579705
+  },
+  {
+    "name": "caju, polpa, congelada",
+    "originalName": "Caju, polpa, congelada",
+    "energy": 36.568679999999965,
+    "protein": 0.48125,
+    "fat": 0.154,
+    "carbs": 9.350749999999994
+  },
+  {
+    "name": "caju, suco concentrado, envasado",
+    "originalName": "Caju, suco concentrado, envasado",
+    "energy": 45.10862666666668,
+    "protein": 0.4041666666666667,
+    "fat": 0.2,
+    "carbs": 10.733833333333331
+  },
+  {
+    "name": "caqui, chocolate, cru",
+    "originalName": "Caqui, chocolate, cru",
+    "energy": 71.35001811164616,
+    "protein": 0.35625,
+    "fat": 0.06933333333333334,
+    "carbs": 19.325749999999996
+  },
+  {
+    "name": "carambola, crua",
+    "originalName": "Carambola, crua",
+    "energy": 45.740888793428724,
+    "protein": 0.8708333333333333,
+    "fat": 0.17699999999999996,
+    "carbs": 11.481499999999997
+  },
+  {
+    "name": "ciriguela, crua",
+    "originalName": "Ciriguela, crua",
+    "energy": 75.59411,
+    "protein": 1.3979166666666667,
+    "fat": 0.35966666666666663,
+    "carbs": 18.857416666666666
+  },
+  {
+    "name": "cupuacu, cru",
+    "originalName": "Cupuaçu, cru",
+    "energy": 49.42255877437193,
+    "protein": 1.1604166666666664,
+    "fat": 0.9513333333333334,
+    "carbs": 10.433583333333335
+  },
+  {
+    "name": "cupuacu, polpa, congelada",
+    "originalName": "Cupuaçu, polpa, congelada",
+    "energy": 48.79688999999999,
+    "protein": 0.84375,
+    "fat": 0.5936666666666667,
+    "carbs": 11.386916666666668
+  },
+  {
+    "name": "figo, cru",
+    "originalName": "Figo, cru",
+    "energy": 41.447126086956516,
+    "protein": 0.967391304347826,
+    "fat": 0.15666666666666665,
+    "carbs": 10.245942028985507
+  },
+  {
+    "name": "figo, enlatado, em calda",
+    "originalName": "Figo, enlatado, em calda",
+    "energy": 184.36071739130435,
+    "protein": 0.5615942028985508,
+    "fat": 0.15,
+    "carbs": 50.33840579710145
+  },
+  {
+    "name": "fruta-pao, crua",
+    "originalName": "Fruta-pão, crua",
+    "energy": 67.04561999999997,
+    "protein": 1.08125,
+    "fat": 0.18933333333333335,
+    "carbs": 17.17441666666665
+  },
+  {
+    "name": "goiaba, branca, com casca, crua",
+    "originalName": "Goiaba, branca, com casca, crua",
+    "energy": 51.73774782608695,
+    "protein": 0.8985507246376812,
+    "fat": 0.48666666666666664,
+    "carbs": 12.401449275362321
+  },
+  {
+    "name": "goiaba, doce em pasta",
+    "originalName": "Goiaba, doce em pasta",
+    "energy": 268.9598260869565,
+    "protein": 0.5797101449275363,
+    "fat": 0,
+    "carbs": 74.1236231884058
+  },
+  {
+    "name": "goiaba, doce, cascao",
+    "originalName": "Goiaba, doce, cascão",
+    "energy": 285.58779243900375,
+    "protein": 0.41458333333333336,
+    "fat": 0.10333333333333333,
+    "carbs": 78.70275
+  },
+  {
+    "name": "goiaba, vermelha, com casca, crua",
+    "originalName": "Goiaba, vermelha, com casca, crua",
+    "energy": 54.16993043478262,
+    "protein": 1.0869565217391304,
+    "fat": 0.44,
+    "carbs": 13.009710144927533
+  },
+  {
+    "name": "graviola, crua",
+    "originalName": "Graviola, crua",
+    "energy": 61.62189837666358,
+    "protein": 0.8458333333333333,
+    "fat": 0.21,
+    "carbs": 15.839500000000008
+  },
+  {
+    "name": "graviola, polpa, congelada",
+    "originalName": "Graviola, polpa, congelada",
+    "energy": 38.27386999999997,
+    "protein": 0.5666666666666667,
+    "fat": 0.1376666666666667,
+    "carbs": 9.782666666666657
+  },
+  {
+    "name": "jabuticaba, crua",
+    "originalName": "Jabuticaba, crua",
+    "energy": 58.05315000000004,
+    "protein": 0.6125,
+    "fat": 0.12833333333333333,
+    "carbs": 15.255833333333337
+  },
+  {
+    "name": "jaca, crua",
+    "originalName": "Jaca, crua",
+    "energy": 87.92034999999997,
+    "protein": 1.4020833333333336,
+    "fat": 0.265,
+    "carbs": 22.497583333333324
+  },
+  {
+    "name": "jambo, cru",
+    "originalName": "Jambo, cru",
+    "energy": 26.91229999999998,
+    "protein": 0.8854166666666669,
+    "fat": 0.06666666666666667,
+    "carbs": 6.494250000000001
+  },
+  {
+    "name": "jamelao, cru",
+    "originalName": "Jamelão, cru",
+    "energy": 41.00970891670385,
+    "protein": 0.5458333333333333,
+    "fat": 0.10966666666666665,
+    "carbs": 10.627166666666664
+  },
+  {
+    "name": "kiwi, cru",
+    "originalName": "Kiwi, cru",
+    "energy": 51.136330434782636,
+    "protein": 1.3369565217391304,
+    "fat": 0.6266666666666666,
+    "carbs": 11.499710144927537
+  },
+  {
+    "name": "laranja, baia, crua",
+    "originalName": "Laranja, baía, crua",
+    "energy": 45.43811739130433,
+    "protein": 0.9782608695652175,
+    "fat": 0.10333333333333335,
+    "carbs": 11.468405797101452
+  },
+  {
+    "name": "laranja, baia, suco",
+    "originalName": "Laranja, baía, suco",
+    "energy": 36.64948260869561,
+    "protein": 0.6521739130434783,
+    "fat": "Tr",
+    "carbs": 8.69782608695652
+  },
+  {
+    "name": "laranja, da terra, crua",
+    "originalName": "Laranja, da terra, crua",
+    "energy": 51.471128639280764,
+    "protein": 1.0770833333333334,
+    "fat": 0.18566666666666665,
+    "carbs": 12.860583333333317
+  },
+  {
+    "name": "laranja, da terra, suco",
+    "originalName": "Laranja, da terra, suco",
+    "energy": 40.95600731086733,
+    "protein": 0.6666666666666667,
+    "fat": 0.14200000000000002,
+    "carbs": 9.573333333333336
+  },
+  {
+    "name": "laranja, lima, crua",
+    "originalName": "Laranja, lima, crua",
+    "energy": 45.701038780629624,
+    "protein": 1.05625,
+    "fat": 0.07533333333333332,
+    "carbs": 11.53375
+  },
+  {
+    "name": "laranja, lima, suco",
+    "originalName": "Laranja, lima, suco",
+    "energy": 39.336093944132394,
+    "protein": 0.7145833333333333,
+    "fat": 0.11933333333333333,
+    "carbs": 9.16741666666668
+  },
+  {
+    "name": "laranja, pera, crua",
+    "originalName": "Laranja, pêra, crua",
+    "energy": 36.77376521739132,
+    "protein": 1.0434782608695652,
+    "fat": 0.12666666666666668,
+    "carbs": 8.946521739130437
+  },
+  {
+    "name": "laranja, pera, suco",
+    "originalName": "Laranja, pêra, suco",
+    "energy": 32.70975362318838,
+    "protein": 0.7391304347826088,
+    "fat": 0.07333333333333333,
+    "carbs": 7.554202898550721
+  },
+  {
+    "name": "laranja, valencia, crua",
+    "originalName": "Laranja, valência, crua",
+    "energy": 46.109628783385006,
+    "protein": 0.7666666666666666,
+    "fat": 0.159,
+    "carbs": 11.723000000000013
+  },
+  {
+    "name": "laranja, valencia, suco",
+    "originalName": "Laranja, valência, suco",
+    "energy": 36.19635058768591,
+    "protein": 0.4833333333333333,
+    "fat": 0.12433333333333334,
+    "carbs": 8.554000000000004
+  },
+  {
+    "name": "limao, cravo, suco",
+    "originalName": "Limão, cravo, suco",
+    "energy": 14.103733399311682,
+    "protein": 0.325,
+    "fat": "Tr",
+    "carbs": 5.246666666666659
+  },
+  {
+    "name": "limao, galego, suco",
+    "originalName": "Limão, galego, suco",
+    "energy": 22.22504347826089,
+    "protein": 0.5652173913043479,
+    "fat": 0.06666666666666667,
+    "carbs": 7.321449275362319
+  },
+  {
+    "name": "limao, tahiti, cru",
+    "originalName": "Limão, tahiti, cru",
+    "energy": 31.818153430163903,
+    "protein": 0.9395833333333332,
+    "fat": 0.14,
+    "carbs": 11.084416666666677
+  },
+  {
+    "name": "maca, argentina, com casca, crua",
+    "originalName": "Maçã, Argentina, com casca, crua",
+    "energy": 62.531818366289116,
+    "protein": 0.225,
+    "fat": 0.246,
+    "carbs": 16.587999999999997
+  },
+  {
+    "name": "maca, fuji, com casca, crua",
+    "originalName": "Maçã, Fuji, com casca, crua",
+    "energy": 55.51520000000005,
+    "protein": 0.2866666666666667,
+    "fat": "Tr",
+    "carbs": 15.153333333333341
+  },
+  {
+    "name": "macauba, crua",
+    "originalName": "Macaúba, crua",
+    "energy": 404.2818766666667,
+    "protein": 2.0828999999999995,
+    "fat": 40.656666666666666,
+    "carbs": 13.945433333333337
+  },
+  {
+    "name": " mamao, doce em calda, drenado",
+    "originalName": " Mamão, doce em calda, drenado",
+    "energy": 195.62747482178608,
+    "protein": 0.19375,
+    "fat": 0.06733333333333334,
+    "carbs": 54.00358333333333
+  },
+  {
+    "name": "mamao, formosa, cru",
+    "originalName": "Mamão, Formosa, cru",
+    "energy": 45.34074782608691,
+    "protein": 0.8152173913043478,
+    "fat": 0.12,
+    "carbs": 11.554782608695643
+  },
+  {
+    "name": "mamao, papaia, cru",
+    "originalName": "Mamão, Papaia, cru",
+    "energy": 40.156768942296566,
+    "protein": 0.45625,
+    "fat": 0.12433333333333334,
+    "carbs": 10.439750000000016
+  },
+  {
+    "name": " mamao verde, doce em calda, drenado",
+    "originalName": " Mamão verde, doce em calda, drenado",
+    "energy": 209.3762544589043,
+    "protein": 0.31666666666666665,
+    "fat": 0.09800000000000002,
+    "carbs": 57.63666666666667
+  },
+  {
+    "name": "manga, haden, crua",
+    "originalName": "Manga, Haden, crua",
+    "energy": 63.50031833879153,
+    "protein": 0.4083333333333334,
+    "fat": 0.256,
+    "carbs": 16.662666666666667
+  },
+  {
+    "name": "manga, palmer, crua",
+    "originalName": "Manga, Palmer, crua",
+    "energy": 72.48673809168733,
+    "protein": 0.41041666666666665,
+    "fat": 0.17200000000000001,
+    "carbs": 19.35224999999999
+  },
+  {
+    "name": "manga, polpa, congelada",
+    "originalName": "Manga, polpa, congelada",
+    "energy": 48.30588,
+    "protein": 0.38125,
+    "fat": 0.23399999999999999,
+    "carbs": 12.518416666666665
+  },
+  {
+    "name": "manga, tommy atkins, crua",
+    "originalName": "Manga, Tommy Atkins, crua",
+    "energy": 50.69218260869563,
+    "protein": 0.8550724637681161,
+    "fat": 0.22,
+    "carbs": 12.771594202898537
+  },
+  {
+    "name": "maracuja, cru",
+    "originalName": "Maracujá, cru",
+    "energy": 68.43950869565214,
+    "protein": 1.9891304347826089,
+    "fat": 2.103333333333333,
+    "carbs": 12.264202898550717
+  },
+  {
+    "name": "maracuja, polpa, congelada",
+    "originalName": "Maracujá, polpa, congelada",
+    "energy": 38.75969999999999,
+    "protein": 0.8125,
+    "fat": 0.17666666666666667,
+    "carbs": 9.597499999999993
+  },
+  {
+    "name": "maracuja, suco concentrado, envasado",
+    "originalName": "Maracujá, suco concentrado, envasado",
+    "energy": 41.96731999999999,
+    "protein": 0.7666666666666666,
+    "fat": 0.19333333333333336,
+    "carbs": 9.635999999999992
+  },
+  {
+    "name": "melancia, crua",
+    "originalName": "Melancia, crua",
+    "energy": 32.60662608695646,
+    "protein": 0.8840579710144928,
+    "fat": "Tr",
+    "carbs": 8.139275362318838
+  },
+  {
+    "name": "melao, cru",
+    "originalName": "Melão, cru",
+    "energy": 29.369391304347808,
+    "protein": 0.6775362318840581,
+    "fat": "Tr",
+    "carbs": 7.525797101449274
+  },
+  {
+    "name": "mexerica, murcote, crua",
+    "originalName": "Mexerica, Murcote, crua",
+    "energy": 57.592778474648775,
+    "protein": 0.8833333333333334,
+    "fat": 0.134,
+    "carbs": 14.861999999999998
+  },
+  {
+    "name": "mexerica, rio, crua",
+    "originalName": "Mexerica, Rio, crua",
+    "energy": 36.871350000000064,
+    "protein": 0.65,
+    "fat": 0.12833333333333333,
+    "carbs": 9.337000000000014
+  },
+  {
+    "name": "morango, cru",
+    "originalName": "Morango, cru",
+    "energy": 30.147917391304354,
+    "protein": 0.8949275362318839,
+    "fat": 0.31,
+    "carbs": 6.818405797101459
+  },
+  {
+    "name": "nespera, crua",
+    "originalName": "Nêspera, crua",
+    "energy": 42.539198868195214,
+    "protein": 0.30833333333333335,
+    "fat": "Tr",
+    "carbs": 11.528666666666659
+  },
+  {
+    "name": "pequi, cru",
+    "originalName": "Pequi, cru",
+    "energy": 204.96677,
+    "protein": 2.3354166666666667,
+    "fat": 17.971,
+    "carbs": 12.972916666666666
+  },
+  {
+    "name": "pera, park, crua",
+    "originalName": "Pêra, Park, crua",
+    "energy": 60.58859,
+    "protein": 0.23541666666666672,
+    "fat": 0.2303333333333333,
+    "carbs": 16.074916666666663
+  },
+  {
+    "name": "pera, williams, crua",
+    "originalName": "Pêra, Williams, crua",
+    "energy": 53.309047826086925,
+    "protein": 0.5652173913043479,
+    "fat": 0.11,
+    "carbs": 14.02478260869564
+  },
+  {
+    "name": "pessego, aurora, cru",
+    "originalName": "Pêssego, Aurora, cru",
+    "energy": 36.327599024534216,
+    "protein": 0.825,
+    "fat": "Tr",
+    "carbs": 9.321000000000005
+  },
+  {
+    "name": "pessego, enlatado, em calda",
+    "originalName": "Pêssego, enlatado, em calda",
+    "energy": 63.142434782608696,
+    "protein": 0.7065217391304348,
+    "fat": "Tr",
+    "carbs": 16.880144927536232
+  },
+  {
+    "name": "pinha, crua",
+    "originalName": "Pinha, crua",
+    "energy": 88.4735276668668,
+    "protein": 1.4854166666666666,
+    "fat": 0.319,
+    "carbs": 22.447916666666668
+  },
+  {
+    "name": "pitanga, crua",
+    "originalName": "Pitanga, crua",
+    "energy": 41.41552999999997,
+    "protein": 0.9291666666666665,
+    "fat": 0.169,
+    "carbs": 10.24416666666666
+  },
+  {
+    "name": "pitanga, polpa, congelada",
+    "originalName": "Pitanga, polpa, congelada",
+    "energy": 19.10545950235922,
+    "protein": 0.28541666666666665,
+    "fat": 0.12133333333333333,
+    "carbs": 4.7585833333333305
+  },
+  {
+    "name": "roma, crua",
+    "originalName": "Romã, crua",
+    "energy": 55.73900000000001,
+    "protein": 0.4041666666666667,
+    "fat": "Tr",
+    "carbs": 15.105833333333335
+  },
+  {
+    "name": "tamarindo, cru",
+    "originalName": "Tamarindo, cru",
+    "energy": 275.69564269441366,
+    "protein": 3.20625,
+    "fat": 0.455,
+    "carbs": 72.53175
+  },
+  {
+    "name": "tangerina, ponca, crua",
+    "originalName": "Tangerina, Poncã, crua",
+    "energy": 37.83059999999995,
+    "protein": 0.8478260869565218,
+    "fat": 0.07333333333333335,
+    "carbs": 9.60999999999999
+  },
+  {
+    "name": "tangerina, ponca, suco",
+    "originalName": "Tangerina, Poncã, suco",
+    "energy": 36.10879999999999,
+    "protein": 0.5217391304347826,
+    "fat": "Tr",
+    "carbs": 8.8
+  },
+  {
+    "name": "tucuma, cru",
+    "originalName": "Tucumã, cru",
+    "energy": 262.01519507239266,
+    "protein": 2.09375,
+    "fat": 19.076666666666668,
+    "carbs": 26.47458333333333
+  },
+  {
+    "name": "umbu, cru",
+    "originalName": "Umbu, cru",
+    "energy": 37.016689999999976,
+    "protein": 0.8416666666666668,
+    "fat": "Tr",
+    "carbs": 9.395333333333333
+  },
+  {
+    "name": "umbu, polpa, congelada",
+    "originalName": "Umbu, polpa, congelada",
+    "energy": 33.943290000000005,
+    "protein": 0.5125,
+    "fat": 0.07033333333333334,
+    "carbs": 8.78683333333333
+  },
+  {
+    "name": "uva, italia, crua",
+    "originalName": "Uva, Itália, crua",
+    "energy": 52.873100000000065,
+    "protein": 0.7463768115942029,
+    "fat": 0.20333333333333334,
+    "carbs": 13.573333333333345
+  },
+  {
+    "name": "uva, rubi, crua",
+    "originalName": "Uva, Rubi, crua",
+    "energy": 49.061289999999964,
+    "protein": 0.6083333333333333,
+    "fat": 0.157,
+    "carbs": 12.69533333333333
+  },
+  {
+    "name": "uva, suco concentrado, envasado",
+    "originalName": "Uva, suco concentrado, envasado",
+    "energy": 57.655359999999995,
+    "protein": "Tr",
+    "fat": "Tr",
+    "carbs": 14.708000000000002
+  },
+  {
+    "name": "azeite, de dende",
+    "originalName": "Azeite, de dendê",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "azeite, de oliva, extra virgem",
+    "originalName": "Azeite, de oliva, extra virgem",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "manteiga, com sal",
+    "originalName": "Manteiga, com sal",
+    "energy": 725.9689268459988,
+    "protein": 0.4147000074386597,
+    "fat": 82.361,
+    "carbs": 0.0632999925613329
+  },
+  {
+    "name": "manteiga, sem sal",
+    "originalName": "Manteiga, sem sal",
+    "energy": 757.5404607259967,
+    "protein": 0.3955600070953369,
+    "fat": 86.03933333333333,
+    "carbs": 0
+  },
+  {
+    "name": "margarina, com oleo hidrogenado, com sal (65% de lipideos)",
+    "originalName": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
+    "energy": 596.1195169563294,
+    "protein": "Tr",
+    "fat": 67.43433333333334,
+    "carbs": 0
+  },
+  {
+    "name": "margarina, com oleo hidrogenado, sem sal (80% de lipideos)",
+    "originalName": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
+    "energy": 722.525625804901,
+    "protein": "Tr",
+    "fat": 81.73366666666665,
+    "carbs": 0
+  },
+  {
+    "name": "margarina, com oleo interesterificado, com sal (65%de lipideos)",
+    "originalName": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
+    "energy": 594.4516933333332,
+    "protein": "Tr",
+    "fat": 67.24566666666665,
+    "carbs": 0
+  },
+  {
+    "name": "margarina, com oleo interesterificado, sem sal (65% de lipideos)",
+    "originalName": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "energy": 593.1374902381897,
+    "protein": "Tr",
+    "fat": 67.097,
+    "carbs": 0
+  },
+  {
+    "name": "oleo, de babacu",
+    "originalName": "Óleo, de babaçu",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "oleo, de canola",
+    "originalName": "Óleo, de canola",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "oleo, de girassol",
+    "originalName": "Óleo, de girassol",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "oleo, de milho",
+    "originalName": "Óleo, de milho",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "oleo, de pequi",
+    "originalName": "Óleo, de pequi",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "oleo, de soja",
+    "originalName": "Óleo, de soja",
+    "energy": 884,
+    "protein": "NA",
+    "fat": 100,
+    "carbs": "NA"
+  },
+  {
+    "name": "abadejo, file, congelado, assado",
+    "originalName": "Abadejo, filé, congelado, assado",
+    "energy": 111.6155034511884,
+    "protein": 23.525,
+    "fat": 1.2376666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "abadejo, file, congelado,cozido",
+    "originalName": "Abadejo, filé, congelado,cozido",
+    "energy": 91.10354839555423,
+    "protein": 19.34583333333333,
+    "fat": 0.9420000000000001,
+    "carbs": 0
+  },
+  {
+    "name": "abadejo, file, congelado, cru",
+    "originalName": "Abadejo, filé, congelado, cru",
+    "energy": 59.11303324858347,
+    "protein": 13.083333333333332,
+    "fat": 0.36,
+    "carbs": 0
+  },
+  {
+    "name": "abadejo, file, congelado, grelhado",
+    "originalName": "Abadejo, filé, congelado, grelhado",
+    "energy": 129.6435259028673,
+    "protein": 27.610416666666666,
+    "fat": 1.3023333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "atum, conserva em oleo",
+    "originalName": "Atum, conserva em óleo",
+    "energy": 165.91056057890256,
+    "protein": 26.1875,
+    "fat": 5.996666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "atum, fresco, cru",
+    "originalName": "Atum, fresco, cru",
+    "energy": 117.50099999999998,
+    "protein": 25.68,
+    "fat": 0.87,
+    "carbs": 0
+  },
+  {
+    "name": "bacalhau, salgado, cru",
+    "originalName": "Bacalhau, salgado, cru",
+    "energy": 135.89296666666664,
+    "protein": 29.036666666666665,
+    "fat": 1.32,
+    "carbs": 0
+  },
+  {
+    "name": "bacalhau, salgado, refogado",
+    "originalName": "Bacalhau, salgado, refogado",
+    "energy": 139.66070105353995,
+    "protein": 23.979166666666664,
+    "fat": 3.606666666666667,
+    "carbs": 1.2241666666666786
+  },
+  {
+    "name": "cacao, posta, com farinha de trigo, frita",
+    "originalName": "Cação, posta, com farinha de trigo, frita",
+    "energy": 208.33274372597532,
+    "protein": 24.952083333333334,
+    "fat": 9.954333333333333,
+    "carbs": 3.100583333333332
+  },
+  {
+    "name": "cacao, posta, cozida",
+    "originalName": "Cação, posta, cozida",
+    "energy": 116.01448068765795,
+    "protein": 25.589583333333326,
+    "fat": 0.7479999999999999,
+    "carbs": 0
+  },
+  {
+    "name": "cacao, posta, crua",
+    "originalName": "Cação, posta, crua",
+    "energy": 83.33302501956622,
+    "protein": 17.854166666666668,
+    "fat": 0.7866666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "camarao, rio grande, grande, cozido",
+    "originalName": "Camarão, Rio Grande, grande, cozido",
+    "energy": 90.01368009630838,
+    "protein": 18.966666666666665,
+    "fat": 1.0006666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "camarao, rio grande, grande, cru",
+    "originalName": "Camarão, Rio Grande, grande, cru",
+    "energy": 47.18343670543035,
+    "protein": 9.991666666666667,
+    "fat": 0.501,
+    "carbs": 0
+  },
+  {
+    "name": "camarao, sete barbas, sem cabeca, com casca, frito",
+    "originalName": "Camarão, Sete Barbas, sem cabeça, com casca, frito",
+    "energy": 231.24615385087333,
+    "protein": 18.3875,
+    "fat": 15.620333333333333,
+    "carbs": 2.8798333333333326
+  },
+  {
+    "name": "caranguejo, cozido",
+    "originalName": "Caranguejo, cozido",
+    "energy": 82.72150150783858,
+    "protein": 18.479166666666668,
+    "fat": 0.423,
+    "carbs": 0
+  },
+  {
+    "name": "corimba, cru",
+    "originalName": "Corimba, cru",
+    "energy": 128.1554,
+    "protein": 17.366666666666667,
+    "fat": 5.986666666666667,
+    "carbs": -0.026666666666666172
+  },
+  {
+    "name": "corimbata, assado",
+    "originalName": "Corimbatá, assado",
+    "energy": 261.45243941056725,
+    "protein": 19.897916666666667,
+    "fat": 19.566333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "corimbata, cozido",
+    "originalName": "Corimbatá, cozido",
+    "energy": 238.69610486733916,
+    "protein": 20.13125,
+    "fat": 16.933000000000003,
+    "carbs": 0
+  },
+  {
+    "name": "corvina de agua doce, crua",
+    "originalName": "Corvina de água doce, crua",
+    "energy": 101.00903333333332,
+    "protein": 18.916666666666668,
+    "fat": 2.2433333333333336,
+    "carbs": 0
+  },
+  {
+    "name": "corvina do mar, crua",
+    "originalName": "Corvina do mar, crua",
+    "energy": 94,
+    "protein": 18.57,
+    "fat": 1.5833333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "corvina grande, assada",
+    "originalName": "Corvina grande, assada",
+    "energy": 146.52814112536112,
+    "protein": 26.766666666666666,
+    "fat": 3.5736666666666665,
+    "carbs": 0
+  },
+  {
+    "name": "corvina grande, cozida",
+    "originalName": "Corvina grande, cozida",
+    "energy": 100.07812455296516,
+    "protein": 23.4375,
+    "fat": 2.5626666666666664,
+    "carbs": 0
+  },
+  {
+    "name": "dourada de agua doce, fresca",
+    "originalName": "Dourada de água doce, fresca",
+    "energy": 131.2083147237698,
+    "protein": 18.810416666666665,
+    "fat": 5.641666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "lambari, congelado, cru",
+    "originalName": "Lambari, congelado, cru",
+    "energy": 130.84031100948653,
+    "protein": 16.8125,
+    "fat": 6.546666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "lambari, congelado, frito",
+    "originalName": "Lambari, congelado, frito",
+    "energy": 326.86839988660813,
+    "protein": 28.425,
+    "fat": 22.782,
+    "carbs": 0
+  },
+  {
+    "name": "lambari, fresco, cru",
+    "originalName": "Lambari, fresco, cru",
+    "energy": 151.598346503218,
+    "protein": 15.652083333333334,
+    "fat": 9.397333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "manjuba, com farinha de trigo, frita",
+    "originalName": "Manjuba, com farinha de trigo, frita",
+    "energy": 343.55045872306823,
+    "protein": 23.45,
+    "fat": 22.593,
+    "carbs": 10.24033333333333
+  },
+  {
+    "name": "manjuba, frita",
+    "originalName": "Manjuba, frita",
+    "energy": 349.32523145536584,
+    "protein": 30.13958333333333,
+    "fat": 24.46,
+    "carbs": 0
+  },
+  {
+    "name": "merluza, file, assado",
+    "originalName": "Merluza, filé, assado",
+    "energy": 121.91021833333333,
+    "protein": 26.604166666666668,
+    "fat": 0.9213333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "merluza, file, cru",
+    "originalName": "Merluza, filé, cru",
+    "energy": 89.13086666666665,
+    "protein": 16.606666666666666,
+    "fat": 2.02,
+    "carbs": 0
+  },
+  {
+    "name": "merluza, file, frito",
+    "originalName": "Merluza, filé, frito",
+    "energy": 191.62747837583225,
+    "protein": 26.929166666666664,
+    "fat": 8.496666666666668,
+    "carbs": 0
+  },
+  {
+    "name": "pescada, branca, crua",
+    "originalName": "Pescada, branca, crua",
+    "energy": 110.87629999999999,
+    "protein": 16.263333333333332,
+    "fat": 4.593333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "pescada, branca, frita",
+    "originalName": "Pescada, branca, frita",
+    "energy": 223.0397323693037,
+    "protein": 27.35625,
+    "fat": 11.777000000000001,
+    "carbs": 0
+  },
+  {
+    "name": "pescada, file, com farinha de trigo, frito",
+    "originalName": "Pescada, filé, com farinha de trigo, frito",
+    "energy": 283.4252144319614,
+    "protein": 21.435416666666665,
+    "fat": 19.115,
+    "carbs": 5.033250000000005
+  },
+  {
+    "name": "pescada, file, cru",
+    "originalName": "Pescada, filé, cru",
+    "energy": 107.20556666666666,
+    "protein": 16.65,
+    "fat": 4.003333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "pescada, file, frito",
+    "originalName": "Pescada, filé, frito",
+    "energy": 154.270025,
+    "protein": 28.5875,
+    "fat": 3.57,
+    "carbs": 0
+  },
+  {
+    "name": "pescada, file, molho escabeche",
+    "originalName": "Pescada, filé, molho escabeche",
+    "energy": 141.9583228750229,
+    "protein": 11.75,
+    "fat": 8.024,
+    "carbs": 5.0153333333333405
+  },
+  {
+    "name": "pescadinha, crua",
+    "originalName": "Pescadinha, crua",
+    "energy": 76.40890833333334,
+    "protein": 15.47916666666667,
+    "fat": 1.1433333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "pintado, assado",
+    "originalName": "Pintado, assado",
+    "energy": 191.55914112758637,
+    "protein": 36.45,
+    "fat": 3.9820000000000007,
+    "carbs": 0
+  },
+  {
+    "name": "pintado, cru",
+    "originalName": "Pintado, cru",
+    "energy": 91.08323333333333,
+    "protein": 18.55666666666667,
+    "fat": 1.3133333333333335,
+    "carbs": 0
+  },
+  {
+    "name": "pintado, grelhado",
+    "originalName": "Pintado, grelhado",
+    "energy": 152.19008833333334,
+    "protein": 30.795833333333334,
+    "fat": 2.294,
+    "carbs": 0
+  },
+  {
+    "name": "porquinho, cru",
+    "originalName": "Porquinho, cru",
+    "energy": 93.02456666666666,
+    "protein": 20.49,
+    "fat": 0.6133333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "salmao, file, com pele, fresco,  grelhado",
+    "originalName": "Salmão, filé, com pele, fresco,  grelhado",
+    "energy": 228.73177513531843,
+    "protein": 23.91875,
+    "fat": 14.035333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "salmao, sem pele, fresco, cru",
+    "originalName": "Salmão, sem pele, fresco, cru",
+    "energy": 169.78157991055645,
+    "protein": 19.252083333333335,
+    "fat": 9.708999999999998,
+    "carbs": 0
+  },
+  {
+    "name": "salmao, sem pele, fresco, grelhado",
+    "originalName": "Salmão, sem pele, fresco, grelhado",
+    "energy": 242.7065694870949,
+    "protein": 26.14166666666667,
+    "fat": 14.532333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "sardinha, assada",
+    "originalName": "Sardinha, assada",
+    "energy": 164.3507883333333,
+    "protein": 32.17916666666667,
+    "fat": 2.9873333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "sardinha, conserva em oleo",
+    "originalName": "Sardinha, conserva em óleo",
+    "energy": 284.9810048712492,
+    "protein": 15.939583333333335,
+    "fat": 24.048666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "sardinha, frita",
+    "originalName": "Sardinha, frita",
+    "energy": 257.0407,
+    "protein": 33.38333333333334,
+    "fat": 12.693333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "sardinha, inteira, crua",
+    "originalName": "Sardinha, inteira, crua",
+    "energy": 113.90036666666666,
+    "protein": 21.076666666666668,
+    "fat": 2.65,
+    "carbs": 0
+  },
+  {
+    "name": "tucunare, file, congelado, cru",
+    "originalName": "Tucunaré, filé, congelado, cru",
+    "energy": 87.686483549277,
+    "protein": 17.958333333333336,
+    "fat": 1.22,
+    "carbs": -0.04500000000000792
+  },
+  {
+    "name": "apresuntado",
+    "originalName": "Apresuntado",
+    "energy": 128.85725581200919,
+    "protein": 13.45,
+    "fat": 6.690666666666666,
+    "carbs": 2.862000000000004
+  },
+  {
+    "name": "caldo de carne, tablete",
+    "originalName": "Caldo de carne, tablete",
+    "energy": 240.62333333333333,
+    "protein": 7.82,
+    "fat": 16.57,
+    "carbs": 15.053333333333342
+  },
+  {
+    "name": "caldo de galinha, tablete",
+    "originalName": "Caldo de galinha, tablete",
+    "energy": 251.44566666666665,
+    "protein": 6.279166666666666,
+    "fat": 20.416333333333334,
+    "carbs": 10.645499999999991
+  },
+  {
+    "name": "carne, bovina, acem, moido, cozido",
+    "originalName": "Carne, bovina, acém, moído, cozido",
+    "energy": 212.42039999999997,
+    "protein": 26.68666666666667,
+    "fat": 10.916666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, acem, moido, cru",
+    "originalName": "Carne, bovina, acém, moído, cru",
+    "energy": 136.56233333333333,
+    "protein": 19.42,
+    "fat": 5.946666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, acem, sem gordura, cozido",
+    "originalName": "Carne, bovina, acém, sem gordura, cozido",
+    "energy": 214.61056666666664,
+    "protein": 27.27,
+    "fat": 10.883333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, acem, sem gordura, cru",
+    "originalName": "Carne, bovina, acém, sem gordura, cru",
+    "energy": 144.02943333333332,
+    "protein": 20.816666666666666,
+    "fat": 6.113333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, almondegas, cruas",
+    "originalName": "Carne, bovina, almôndegas, cruas",
+    "energy": 189.2566666666666,
+    "protein": 12.3125,
+    "fat": 11.203333333333333,
+    "carbs": 9.794166666666655
+  },
+  {
+    "name": "carne, bovina, almondegas, fritas",
+    "originalName": "Carne, bovina, almôndegas, fritas",
+    "energy": 271.813,
+    "protein": 18.15625,
+    "fat": 15.782333333333334,
+    "carbs": 14.286749999999996
+  },
+  {
+    "name": "carne, bovina, bucho, cozido",
+    "originalName": "Carne, bovina, bucho, cozido",
+    "energy": 133.02286666666666,
+    "protein": 21.64,
+    "fat": 4.503333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, bucho, cru",
+    "originalName": "Carne, bovina, bucho, cru",
+    "energy": 137.30316666666667,
+    "protein": 20.53,
+    "fat": 5.503333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, capa de contra-file, com gordura, crua",
+    "originalName": "Carne, bovina, capa de contra-filé, com gordura, crua",
+    "energy": 216.9089666666667,
+    "protein": 19.19666666666667,
+    "fat": 14.96,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, capa de contra-file, com gordura, grelhada",
+    "originalName": "Carne, bovina, capa de contra-filé, com gordura, grelhada",
+    "energy": 311.7026666666667,
+    "protein": 30.686666666666667,
+    "fat": 20.03,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, capa de contra-file, sem gordura, crua",
+    "originalName": "Carne, bovina, capa de contra-filé, sem gordura, crua",
+    "energy": 131.06246666666664,
+    "protein": 21.54,
+    "fat": 4.333333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, capa de contra-file, sem gordura, grelhada",
+    "originalName": "Carne, bovina, capa de contra-filé, sem gordura, grelhada",
+    "energy": 239.44363333333328,
+    "protein": 35.06333333333333,
+    "fat": 9.95,
+    "carbs": -0.006666666666674814
+  },
+  {
+    "name": "carne, bovina, charque, cozido",
+    "originalName": "Carne, bovina, charque, cozido",
+    "energy": 262.7801422621807,
+    "protein": 36.364583333333336,
+    "fat": 11.918333333333335,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, charque, cru",
+    "originalName": "Carne, bovina, charque, cru",
+    "energy": 248.86101810745396,
+    "protein": 22.71458333333333,
+    "fat": 16.837,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file, a milanesa",
+    "originalName": "Carne, bovina, contra-filé, à milanesa",
+    "energy": 351.5926591989994,
+    "protein": 20.6125,
+    "fat": 23.998,
+    "carbs": 12.174499999999993
+  },
+  {
+    "name": "carne, bovina, contra-file de costela, cru",
+    "originalName": "Carne, bovina, contra-filé de costela, cru",
+    "energy": 202.43739999999997,
+    "protein": 19.8,
+    "fat": 13.07,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file de costela, grelhado",
+    "originalName": "Carne, bovina, contra-filé de costela, grelhado",
+    "energy": 274.91426666666666,
+    "protein": 29.88,
+    "fat": 16.333333333333332,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file, com gordura, cru",
+    "originalName": "Carne, bovina, contra-filé, com gordura, cru",
+    "energy": 205.8567,
+    "protein": 21.15,
+    "fat": 12.81,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file, com gordura, grelhado",
+    "originalName": "Carne, bovina, contra-filé, com gordura, grelhado",
+    "energy": 278.05356666666665,
+    "protein": 32.39666666666667,
+    "fat": 15.49,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file, sem gordura, cru",
+    "originalName": "Carne, bovina, contra-filé, sem gordura, cru",
+    "energy": 156.6158333333333,
+    "protein": 23.996666666666666,
+    "fat": 6.003333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, contra-file, sem gordura, grelhado",
+    "originalName": "Carne, bovina, contra-filé, sem gordura, grelhado",
+    "energy": 193.69156666666663,
+    "protein": 35.88333333333333,
+    "fat": 4.486666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, costela, assada",
+    "originalName": "Carne, bovina, costela, assada",
+    "energy": 373.03886666666665,
+    "protein": 28.80666666666667,
+    "fat": 27.72,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, costela, crua",
+    "originalName": "Carne, bovina, costela, crua",
+    "energy": 357.72246666666666,
+    "protein": 16.706666666666667,
+    "fat": 31.75,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, coxao duro, sem gordura, cozido",
+    "originalName": "Carne, bovina, coxão duro, sem gordura, cozido",
+    "energy": 216.616066666667,
+    "protein": 31.88,
+    "fat": 8.923333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, coxao duro, sem gordura, cru",
+    "originalName": "Carne, bovina, coxão duro, sem gordura, cru",
+    "energy": 147.96633333333335,
+    "protein": 21.513333333333335,
+    "fat": 6.22,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, coxao mole, sem gordura, cozido",
+    "originalName": "Carne, bovina, coxão mole, sem gordura, cozido",
+    "energy": 218.6751,
+    "protein": 32.38333333333333,
+    "fat": 8.913333333333332,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, coxao mole, sem gordura, cru",
+    "originalName": "Carne, bovina, coxão mole, sem gordura, cru",
+    "energy": 169.06596666666667,
+    "protein": 21.23,
+    "fat": 8.693333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, cupim, assado",
+    "originalName": "Carne, bovina, cupim, assado",
+    "energy": 330.1002908333333,
+    "protein": 28.63125,
+    "fat": 23.042666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, cupim, cru",
+    "originalName": "Carne, bovina, cupim, cru",
+    "energy": 221.3975,
+    "protein": 19.536666666666665,
+    "fat": 15.296666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, figado, cru",
+    "originalName": "Carne, bovina, fígado, cru",
+    "energy": 141.04586666666665,
+    "protein": 20.713333333333335,
+    "fat": 5.3566666666666665,
+    "carbs": 1.106666666666668
+  },
+  {
+    "name": "carne, bovina, figado, grelhado",
+    "originalName": "Carne, bovina, fígado, grelhado",
+    "energy": 225.0264,
+    "protein": 29.86,
+    "fat": 9.01,
+    "carbs": 4.2
+  },
+  {
+    "name": "carne, bovina, file mingnon, sem gordura, cru",
+    "originalName": "Carne, bovina, filé mingnon, sem gordura, cru",
+    "energy": 142.86426666666665,
+    "protein": 21.6,
+    "fat": 5.613333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, file mingnon, sem gordura, grelhado",
+    "originalName": "Carne, bovina, filé mingnon, sem gordura, grelhado",
+    "energy": 219.70259999999996,
+    "protein": 32.8,
+    "fat": 8.83,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, flanco, sem gordura, cozido",
+    "originalName": "Carne, bovina, flanco, sem gordura, cozido",
+    "energy": 195.5753666666667,
+    "protein": 29.37666666666667,
+    "fat": 7.77,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, flanco, sem gordura, cru",
+    "originalName": "Carne, bovina, flanco, sem gordura, cru",
+    "energy": 141.46009999999998,
+    "protein": 19.996666666666666,
+    "fat": 6.216666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, fraldinha, com gordura, cozida",
+    "originalName": "Carne, bovina, fraldinha, com gordura, cozida",
+    "energy": 338.44573333333335,
+    "protein": 24.24,
+    "fat": 26.046666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, fraldinha, com gordura, crua",
+    "originalName": "Carne, bovina, fraldinha, com gordura, crua",
+    "energy": 220.72376666666662,
+    "protein": 17.583333333333332,
+    "fat": 16.146666666666665,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, lagarto, cozido",
+    "originalName": "Carne, bovina, lagarto, cozido",
+    "energy": 222.46856666666667,
+    "protein": 32.86333333333334,
+    "fat": 9.106666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, lagarto, cru",
+    "originalName": "Carne, bovina, lagarto, cru",
+    "energy": 134.86456666666663,
+    "protein": 20.543333333333333,
+    "fat": 5.226666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, lingua, cozida",
+    "originalName": "Carne, bovina, língua, cozida",
+    "energy": 314.9016,
+    "protein": 21.366666666666664,
+    "fat": 24.796666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, lingua, crua",
+    "originalName": "Carne, bovina, língua, crua",
+    "energy": 215.24976666666663,
+    "protein": 17.09,
+    "fat": 15.773333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, maminha, crua",
+    "originalName": "Carne, bovina, maminha, crua",
+    "energy": 152.76586666666665,
+    "protein": 20.933333333333334,
+    "fat": 7.026666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, maminha, grelhada",
+    "originalName": "Carne, bovina, maminha, grelhada",
+    "energy": 153.0896758333333,
+    "protein": 30.735416666666666,
+    "fat": 2.422333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, miolo de alcatra, sem gordura, cru",
+    "originalName": "Carne, bovina, miolo de alcatra, sem gordura, cru",
+    "energy": 162.87123333333332,
+    "protein": 21.61,
+    "fat": 7.826666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, miolo de alcatra, sem gordura, grelhado",
+    "originalName": "Carne, bovina, miolo de alcatra, sem gordura, grelhado",
+    "energy": 241.36396666666667,
+    "protein": 31.93,
+    "fat": 11.643333333333336,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, musculo, sem gordura, cozido",
+    "originalName": "Carne, bovina, músculo, sem gordura, cozido",
+    "energy": 193.80033333333333,
+    "protein": 31.233333333333334,
+    "fat": 6.7,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, musculo, sem gordura, cru",
+    "originalName": "Carne, bovina, músculo, sem gordura, cru",
+    "energy": 141.581,
+    "protein": 21.56,
+    "fat": 5.49,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, paleta, com gordura, crua",
+    "originalName": "Carne, bovina, paleta, com gordura, crua",
+    "energy": 158.7099,
+    "protein": 21.41,
+    "fat": 7.46,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, paleta, sem gordura, cozida",
+    "originalName": "Carne, bovina, paleta, sem gordura, cozida",
+    "energy": 193.65239999999997,
+    "protein": 29.72,
+    "fat": 7.4,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, paleta, sem gordura, crua",
+    "originalName": "Carne, bovina, paleta, sem gordura, crua",
+    "energy": 140.9415,
+    "protein": 21.03,
+    "fat": 5.67,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, patinho, sem gordura, cru",
+    "originalName": "Carne, bovina, patinho, sem gordura, cru",
+    "energy": 133.46889999999996,
+    "protein": 21.72333333333333,
+    "fat": 4.513333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, patinho, sem gordura, grelhado",
+    "originalName": "Carne, bovina, patinho, sem gordura, grelhado",
+    "energy": 219.25926666666663,
+    "protein": 35.9,
+    "fat": 7.3133333333333335,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, peito, sem gordura, cozido",
+    "originalName": "Carne, bovina, peito, sem gordura, cozido",
+    "energy": 338.4731333333333,
+    "protein": 22.24666666666667,
+    "fat": 26.99333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, peito, sem gordura, cru",
+    "originalName": "Carne, bovina, peito, sem gordura, cru",
+    "energy": 259.2756333333333,
+    "protein": 17.55666666666667,
+    "fat": 20.433333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, picanha, com gordura, crua",
+    "originalName": "Carne, bovina, picanha, com gordura, crua",
+    "energy": 212.8794333333333,
+    "protein": 18.823333333333334,
+    "fat": 14.69,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, picanha, com gordura, grelhada",
+    "originalName": "Carne, bovina, picanha, com gordura, grelhada",
+    "energy": 288.7670916666666,
+    "protein": 26.42083333333333,
+    "fat": 19.506666666666664,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, picanha, sem gordura, crua",
+    "originalName": "Carne, bovina, picanha, sem gordura, crua",
+    "energy": 133.52236666666667,
+    "protein": 21.25,
+    "fat": 4.743333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, picanha, sem gordura, grelhada",
+    "originalName": "Carne, bovina, picanha, sem gordura, grelhada",
+    "energy": 238.4681333333333,
+    "protein": 31.906666666666666,
+    "fat": 11.333333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, seca, cozida",
+    "originalName": "Carne, bovina, seca, cozida",
+    "energy": 312.79903369144597,
+    "protein": 26.93125,
+    "fat": 21.929333333333332,
+    "carbs": 0
+  },
+  {
+    "name": "carne, bovina, seca, crua",
+    "originalName": "Carne, bovina, seca, crua",
+    "energy": 312.7484279036522,
+    "protein": 19.65833333333333,
+    "fat": 25.36666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "coxinha de frango, frita",
+    "originalName": "Coxinha de frango, frita",
+    "energy": 283.048,
+    "protein": 9.610416666666666,
+    "fat": 11.835999999999999,
+    "carbs": 34.520583333333335
+  },
+  {
+    "name": "croquete, de carne, cru",
+    "originalName": "Croquete, de carne, cru",
+    "energy": 245.77192529714108,
+    "protein": 12.04375,
+    "fat": 15.561,
+    "carbs": 13.949583333333331
+  },
+  {
+    "name": "croquete, de carne, frito",
+    "originalName": "Croquete, de carne, frito",
+    "energy": 346.7420146474044,
+    "protein": 16.8625,
+    "fat": 22.673333333333332,
+    "carbs": 18.146166666666673
+  },
+  {
+    "name": "empada de frango, pre-cozida, assada",
+    "originalName": "Empada de frango, pré-cozida, assada",
+    "energy": 358.1916666666667,
+    "protein": 6.94375,
+    "fat": 15.605,
+    "carbs": 47.49291666666666
+  },
+  {
+    "name": "empada, de frango, pre-cozida",
+    "originalName": "Empada, de frango, pré-cozida",
+    "energy": 377.4796666666667,
+    "protein": 7.34375,
+    "fat": 22.887666666666664,
+    "carbs": 35.52891666666668
+  },
+  {
+    "name": "frango, asa, com pele, crua",
+    "originalName": "Frango, asa, com pele, crua",
+    "energy": 213.18833333333333,
+    "protein": 18.1,
+    "fat": 15.066666666666668,
+    "carbs": 0
+  },
+  {
+    "name": "frango, caipira, inteiro, com pele, cozido",
+    "originalName": "Frango, caipira, inteiro, com pele, cozido",
+    "energy": 242.88932666666665,
+    "protein": 23.883333333333333,
+    "fat": 15.615666666666668,
+    "carbs": 0
+  },
+  {
+    "name": "frango, caipira, inteiro, sem pele, cozido",
+    "originalName": "Frango, caipira, inteiro, sem pele, cozido",
+    "energy": 195.76029666666665,
+    "protein": 29.575,
+    "fat": 7.702333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "frango, coracao, cru",
+    "originalName": "Frango, coração, cru",
+    "energy": 221.50283333333334,
+    "protein": 12.583333333333336,
+    "fat": 18.6,
+    "carbs": 0
+  },
+  {
+    "name": "frango, coracao, grelhado",
+    "originalName": "Frango, coração, grelhado",
+    "energy": 207.27364333333327,
+    "protein": 22.439583333333335,
+    "fat": 12.095999999999998,
+    "carbs": 0.6074166666666578
+  },
+  {
+    "name": "frango, coxa, com pele, assada",
+    "originalName": "Frango, coxa, com pele, assada",
+    "energy": 215.1186475329399,
+    "protein": 28.491666666666664,
+    "fat": 10.361333333333333,
+    "carbs": 0.05833333333334001
+  },
+  {
+    "name": "frango, coxa, com pele, crua",
+    "originalName": "Frango, coxa, com pele, crua",
+    "energy": 161.47473333333332,
+    "protein": 17.093333333333334,
+    "fat": 9.81,
+    "carbs": 0
+  },
+  {
+    "name": "frango, coxa, sem pele, cozida",
+    "originalName": "Frango, coxa, sem pele, cozida",
+    "energy": 167.42803216441473,
+    "protein": 26.858333333333334,
+    "fat": 5.847333333333332,
+    "carbs": 0
+  },
+  {
+    "name": "frango, coxa, sem pele, crua",
+    "originalName": "Frango, coxa, sem pele, crua",
+    "energy": 119.94746666666661,
+    "protein": 17.813333333333333,
+    "fat": 4.8566666666666665,
+    "carbs": 0.01999999999999702
+  },
+  {
+    "name": "frango, figado, cru",
+    "originalName": "Frango, fígado, cru",
+    "energy": 106.48456666666667,
+    "protein": 17.58666666666667,
+    "fat": 3.49,
+    "carbs": -0.02333333333333809
+  },
+  {
+    "name": "frango, file, a milanesa",
+    "originalName": "Frango, filé, à milanesa",
+    "energy": 220.87277999999998,
+    "protein": 28.46041666666667,
+    "fat": 7.790666666666667,
+    "carbs": 7.512916666666662
+  },
+  {
+    "name": "frango, inteiro, com pele, cru",
+    "originalName": "Frango, inteiro, com pele, cru",
+    "energy": 226.31916666666666,
+    "protein": 16.44333333333333,
+    "fat": 17.30666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "frango, inteiro, sem pele, assado",
+    "originalName": "Frango, inteiro, sem pele, assado",
+    "energy": 187.3377966666667,
+    "protein": 28.025,
+    "fat": 7.5023333333333335,
+    "carbs": 0
+  },
+  {
+    "name": "frango, inteiro, sem pele, cozido",
+    "originalName": "Frango, inteiro, sem pele, cozido",
+    "energy": 170.38997583333332,
+    "protein": 24.985416666666662,
+    "fat": 7.062333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "frango, inteiro, sem pele, cru",
+    "originalName": "Frango, inteiro, sem pele, cru",
+    "energy": 129.09640000000002,
+    "protein": 20.58666666666667,
+    "fat": 4.566666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "frango, peito, com pele, assado",
+    "originalName": "Frango, peito, com pele, assado",
+    "energy": 211.68314953072866,
+    "protein": 33.416666666666664,
+    "fat": 7.649,
+    "carbs": 0
+  },
+  {
+    "name": "frango, peito, com pele, cru",
+    "originalName": "Frango, peito, com pele, cru",
+    "energy": 149.46526666666665,
+    "protein": 20.78,
+    "fat": 6.733333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "frango, peito, sem pele, cozido",
+    "originalName": "Frango, peito, sem pele, cozido",
+    "energy": 162.87476334631444,
+    "protein": 31.46875,
+    "fat": 3.16,
+    "carbs": 0
+  },
+  {
+    "name": "frango, peito, sem pele, cru",
+    "originalName": "Frango, peito, sem pele, cru",
+    "energy": 119.15926666666665,
+    "protein": 21.526666666666667,
+    "fat": 3.02,
+    "carbs": 0
+  },
+  {
+    "name": "frango, peito, sem pele, grelhado",
+    "originalName": "Frango, peito, sem pele, grelhado",
+    "energy": 159.18500719261172,
+    "protein": 32.03333333333334,
+    "fat": 2.4836666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "frango, sobrecoxa, com pele, assada",
+    "originalName": "Frango, sobrecoxa, com pele, assada",
+    "energy": 259.60476916666664,
+    "protein": 28.702083333333334,
+    "fat": 15.193666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "frango, sobrecoxa, com pele, crua",
+    "originalName": "Frango, sobrecoxa, com pele, crua",
+    "energy": 254.5322,
+    "protein": 15.46,
+    "fat": 20.9,
+    "carbs": 0
+  },
+  {
+    "name": "frango, sobrecoxa, sem pele, assada",
+    "originalName": "Frango, sobrecoxa, sem pele, assada",
+    "energy": 232.88339666666667,
+    "protein": 29.175,
+    "fat": 12.007333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "frango, sobrecoxa, sem pele, crua",
+    "originalName": "Frango, sobrecoxa, sem pele, crua",
+    "energy": 161.79629999999997,
+    "protein": 17.57,
+    "fat": 9.62,
+    "carbs": 0
+  },
+  {
+    "name": "hamburguer, bovino, cru",
+    "originalName": "Hambúrguer, bovino, cru",
+    "energy": 214.836,
+    "protein": 13.15625,
+    "fat": 16.177333333333333,
+    "carbs": 4.15375
+  },
+  {
+    "name": "hamburguer, bovino, frito",
+    "originalName": "Hambúrguer, bovino, frito",
+    "energy": 258.283,
+    "protein": 19.972916666666666,
+    "fat": 17.012333333333334,
+    "carbs": 6.320083333333328
+  },
+  {
+    "name": "hamburguer, bovino, grelhado",
+    "originalName": "Hambúrguer, bovino, grelhado",
+    "energy": 209.8316666666667,
+    "protein": 13.15625,
+    "fat": 12.430333333333332,
+    "carbs": 11.333416666666674
+  },
+  {
+    "name": "linguica, frango, crua",
+    "originalName": "Lingüiça, frango, crua",
+    "energy": 218.10881416666666,
+    "protein": 14.239583333333334,
+    "fat": 17.439666666666668,
+    "carbs": 0
+  },
+  {
+    "name": "linguica, frango, frita",
+    "originalName": "Lingüiça, frango, frita",
+    "energy": 245.46100666666663,
+    "protein": 18.316666666666666,
+    "fat": 18.541999999999998,
+    "carbs": 0
+  },
+  {
+    "name": "linguica, frango, grelhada",
+    "originalName": "Lingüiça, frango, grelhada",
+    "energy": 243.6585675,
+    "protein": 18.189583333333335,
+    "fat": 18.402333333333335,
+    "carbs": 0
+  },
+  {
+    "name": "linguica, porco, crua",
+    "originalName": "Lingüiça, porco, crua",
+    "energy": 227.2034508333333,
+    "protein": 16.06458333333333,
+    "fat": 17.584,
+    "carbs": 0
+  },
+  {
+    "name": "linguica, porco, frita",
+    "originalName": "Lingüiça, porco, frita",
+    "energy": 279.54358916666666,
+    "protein": 20.452083333333334,
+    "fat": 21.30966666666667,
+    "carbs": 0
+  },
+  {
+    "name": "linguica, porco, grelhada",
+    "originalName": "Lingüiça, porco, grelhada",
+    "energy": 296.4896091666666,
+    "protein": 23.16875,
+    "fat": 21.90233333333333,
+    "carbs": 0
+  },
+  {
+    "name": "mortadela",
+    "originalName": "Mortadela",
+    "energy": 268.8199890167316,
+    "protein": 11.952083333333334,
+    "fat": 21.649333333333335,
+    "carbs": 5.81591666666666
+  },
+  {
+    "name": "peru, congelado, assado",
+    "originalName": "Peru, congelado, assado",
+    "energy": 163.07139793137708,
+    "protein": 26.20208333333333,
+    "fat": 5.675,
+    "carbs": 0
+  },
+  {
+    "name": "peru, congelado, cru",
+    "originalName": "Peru, congelado, cru",
+    "energy": 93.72243382612864,
+    "protein": 18.083333333333332,
+    "fat": 1.83,
+    "carbs": 0
+  },
+  {
+    "name": "porco, bisteca, crua",
+    "originalName": "Porco, bisteca, crua",
+    "energy": 164.11533659299215,
+    "protein": 21.5,
+    "fat": 8.016666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "porco, bisteca, frita",
+    "originalName": "Porco, bisteca, frita",
+    "energy": 311.1690453348557,
+    "protein": 33.74791666666667,
+    "fat": 18.521666666666665,
+    "carbs": 0
+  },
+  {
+    "name": "porco, bisteca, grelhada",
+    "originalName": "Porco, bisteca, grelhada",
+    "energy": 280.0840349027713,
+    "protein": 28.88958333333333,
+    "fat": 17.375333333333334,
+    "carbs": 0
+  },
+  {
+    "name": "porco, costela, assada",
+    "originalName": "Porco, costela, assada",
+    "energy": 402.16844745083654,
+    "protein": 30.22291666666667,
+    "fat": 30.279,
+    "carbs": 0
+  },
+  {
+    "name": "porco, costela, crua",
+    "originalName": "Porco, costela, crua",
+    "energy": 255.60634206136066,
+    "protein": 18,
+    "fat": 19.816666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "porco, lombo, assado",
+    "originalName": "Porco, lombo, assado",
+    "energy": 210.2346655796369,
+    "protein": 35.725,
+    "fat": 6.395666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "porco, lombo, cru",
+    "originalName": "Porco, lombo, cru",
+    "energy": 175.6251952501138,
+    "protein": 22.604166666666668,
+    "fat": 8.77,
+    "carbs": 0
+  },
+  {
+    "name": "porco, orelha, salgada, crua",
+    "originalName": "Porco, orelha, salgada, crua",
+    "energy": 258.49175833333334,
+    "protein": 18.520833333333332,
+    "fat": 19.89,
+    "carbs": 0
+  },
+  {
+    "name": "porco, pernil, assado",
+    "originalName": "Porco, pernil, assado",
+    "energy": 262.2596066666666,
+    "protein": 32.13333333333333,
+    "fat": 13.863666666666667,
+    "carbs": 0
+  },
+  {
+    "name": "porco, pernil, cru",
+    "originalName": "Porco, pernil, cru",
+    "energy": 186.05575,
+    "protein": 20.125,
+    "fat": 11.1,
+    "carbs": 0
+  },
+  {
+    "name": "porco, rabo, salgado, cru",
+    "originalName": "Porco, rabo, salgado, cru",
+    "energy": 377.41525749999994,
+    "protein": 15.58125,
+    "fat": 34.466,
+    "carbs": 0
+  },
+  {
+    "name": "presunto, com capa de gordura",
+    "originalName": "Presunto, com capa de gordura",
+    "energy": 127.84921266563737,
+    "protein": 14.370833333333334,
+    "fat": 6.771333333333334,
+    "carbs": 1.3975
+  },
+  {
+    "name": "presunto, sem capa de gordura",
+    "originalName": "Presunto, sem capa de gordura",
+    "energy": 93.7432807208697,
+    "protein": 14.291666666666666,
+    "fat": 2.7066666666666666,
+    "carbs": 2.1456666666666697
+  },
+  {
+    "name": "quibe, assado",
+    "originalName": "Quibe, assado",
+    "energy": 136.22887614158785,
+    "protein": 14.59375,
+    "fat": 2.6763333333333335,
+    "carbs": 12.86125
+  },
+  {
+    "name": "quibe, cru",
+    "originalName": "Quibe, cru",
+    "energy": 109.49066929475465,
+    "protein": 12.354166666666666,
+    "fat": 1.6676666666666666,
+    "carbs": 10.774166666666666
+  },
+  {
+    "name": "quibe, frito",
+    "originalName": "Quibe, frito",
+    "energy": 253.83130886964,
+    "protein": 14.889583333333334,
+    "fat": 15.799,
+    "carbs": 12.337416666666657
+  },
+  {
+    "name": "salame",
+    "originalName": "Salame",
+    "energy": 397.8425065349341,
+    "protein": 25.810416666666665,
+    "fat": 30.641333333333336,
+    "carbs": 2.9062500000000098
+  },
+  {
+    "name": "toucinho, cru",
+    "originalName": "Toucinho, cru",
+    "energy": 592.5311749999998,
+    "protein": 11.479166666666666,
+    "fat": 60.25666666666666,
+    "carbs": 0
+  },
+  {
+    "name": "toucinho, frito",
+    "originalName": "Toucinho, frito",
+    "energy": 696.5640066666666,
+    "protein": 27.28333333333333,
+    "fat": 64.30866666666667,
+    "carbs": 0
+  },
+  {
+    "name": "bebida lactea, pessego",
+    "originalName": "Bebida láctea, pêssego",
+    "energy": 55.164833333333306,
+    "protein": 2.1333333333333333,
+    "fat": 1.9066666666666665,
+    "carbs": 7.5700000000000065
+  },
+  {
+    "name": "creme de leite",
+    "originalName": "Creme de Leite",
+    "energy": 221.48354127513312,
+    "protein": 1.5078066937128702,
+    "fat": 22.479333333333333,
+    "carbs": 4.509526639620461
+  },
+  {
+    "name": "iogurte, natural",
+    "originalName": "Iogurte, natural",
+    "energy": 51.48953333333329,
+    "protein": 4.0633333333333335,
+    "fat": 3.04,
+    "carbs": 1.9166666666666603
+  },
+  {
+    "name": "iogurte, natural, desnatado",
+    "originalName": "Iogurte, natural, desnatado",
+    "energy": 41.49271128155834,
+    "protein": 3.8343800687789917,
+    "fat": 0.3156666666666667,
+    "carbs": 5.773953333333329
+  },
+  {
+    "name": "iogurte, sabor abacaxi",
+    "originalName": "Iogurte, sabor abacaxi",
+    "energy": "*",
+    "protein": "*",
+    "fat": "*",
+    "carbs": "*"
+  },
+  {
+    "name": "iogurte, sabor morango",
+    "originalName": "Iogurte, sabor morango",
+    "energy": 69.56560000000003,
+    "protein": 2.71,
+    "fat": 2.33,
+    "carbs": 9.693333333333342
+  },
+  {
+    "name": "iogurte, sabor pessego",
+    "originalName": "Iogurte, sabor pêssego",
+    "energy": 67.84940000000002,
+    "protein": 2.53,
+    "fat": 2.3366666666666664,
+    "carbs": 9.433333333333344
+  },
+  {
+    "name": "leite, condensado",
+    "originalName": "Leite, condensado",
+    "energy": 312.57259999999997,
+    "protein": 7.67,
+    "fat": 6.74,
+    "carbs": 56.99666666666666
+  },
+  {
+    "name": "leite, de cabra",
+    "originalName": "Leite, de cabra",
+    "energy": 66.41574188654329,
+    "protein": 3.0709067217508954,
+    "fat": 3.7543333333333333,
+    "carbs": 5.246093333333333
+  },
+  {
+    "name": "leite, de vaca, achocolatado",
+    "originalName": "Leite, de vaca, achocolatado",
+    "energy": 82.82099627199361,
+    "protein": 2.099020037651062,
+    "fat": 2.169,
+    "carbs": 14.158313333333325
+  },
+  {
+    "name": "leite, de vaca, desnatado, po",
+    "originalName": "Leite, de vaca, desnatado, pó",
+    "energy": 361.60799999999995,
+    "protein": 34.69,
+    "fat": 0.9333333333333332,
+    "carbs": 53.04333333333334
+  },
+  {
+    "name": "leite, de vaca, desnatado, uht",
+    "originalName": "Leite, de vaca, desnatado, UHT",
+    "energy": "*",
+    "protein": "*",
+    "fat": "*",
+    "carbs": "*"
+  },
+  {
+    "name": "leite, de vaca, integral",
+    "originalName": "Leite, de vaca, integral",
+    "energy": "*",
+    "protein": "*",
+    "fat": "*",
+    "carbs": "*"
+  },
+  {
+    "name": "leite, de vaca, integral, po",
+    "originalName": "Leite, de vaca, integral, pó",
+    "energy": 496.6502999999999,
+    "protein": 25.42,
+    "fat": 26.903333333333336,
+    "carbs": 39.18
+  },
+  {
+    "name": "leite, fermentado",
+    "originalName": "Leite, fermentado",
+    "energy": 69.62147400000002,
+    "protein": 1.89486,
+    "fat": 0.09900000000000002,
+    "carbs": 15.67447333333333
+  },
+  {
+    "name": "queijo, minas, frescal",
+    "originalName": "Queijo, minas, frescal",
+    "energy": 264.27312799999993,
+    "protein": 17.411020000000004,
+    "fat": 20.180666666666667,
+    "carbs": 3.240313333333333
+  },
+  {
+    "name": "queijo, minas, meia cura",
+    "originalName": "Queijo, minas, meia cura",
+    "energy": 320.72181773325985,
+    "protein": 21.21137371381124,
+    "fat": 24.61,
+    "carbs": 3.5729596195220865
+  },
+  {
+    "name": "queijo, mozarela",
+    "originalName": "Queijo, mozarela",
+    "energy": 329.8707184208871,
+    "protein": 22.64900040626526,
+    "fat": 25.183000000000003,
+    "carbs": 3.0493329270680736
+  },
+  {
+    "name": "queijo, parmesao",
+    "originalName": "Queijo, parmesão",
+    "energy": 452.9637553333333,
+    "protein": 35.55361333333333,
+    "fat": 33.529333333333334,
+    "carbs": 1.6607199999999995
+  },
+  {
+    "name": "queijo, pasteurizado",
+    "originalName": "Queijo, pasteurizado",
+    "energy": 303.07980333333325,
+    "protein": 9.357333333333333,
+    "fat": 27.435333333333332,
+    "carbs": 5.67633333333333
+  },
+  {
+    "name": "queijo, petit suisse, morango",
+    "originalName": "Queijo, petit suisse, morango",
+    "energy": 121.105954,
+    "protein": 5.78666,
+    "fat": 2.8383333333333334,
+    "carbs": 18.46200666666666
+  },
+  {
+    "name": "queijo, prato",
+    "originalName": "Queijo, prato",
+    "energy": 359.88046240505474,
+    "protein": 22.661760406494142,
+    "fat": 29.106333333333335,
+    "carbs": 1.8785729268391926
+  },
+  {
+    "name": "queijo, requeijao, cremoso",
+    "originalName": "Queijo, requeijão, cremoso",
+    "energy": 256.57814866666666,
+    "protein": 9.629546666666666,
+    "fat": 23.441000000000003,
+    "carbs": 2.4324533333333336
+  },
+  {
+    "name": "queijo, ricota",
+    "originalName": "Queijo, ricota",
+    "energy": 139.73177999999996,
+    "protein": 12.6005,
+    "fat": 8.108666666666666,
+    "carbs": 3.7861666666666673
+  },
+  {
+    "name": "bebida isotonica, sabores variados",
+    "originalName": "Bebida isotônica, sabores variados",
+    "energy": 25.613333333333344,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 6.4033333333333395
+  },
+  {
+    "name": "cafe, infusao 10%",
+    "originalName": "Café, infusão 10%",
+    "energy": 9.070868599613517,
+    "protein": 0.7125,
+    "fat": 0.06933333333333334,
+    "carbs": 1.478666666666667
+  },
+  {
+    "name": "cana, aguardente 1",
+    "originalName": "Cana, aguardente 1",
+    "energy": 215.6616,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0
+  },
+  {
+    "name": "cana, caldo de",
+    "originalName": "Cana, caldo de",
+    "energy": 65.34359826898573,
+    "protein": "Tr",
+    "fat": "Tr",
+    "carbs": 18.151000000000003
+  },
+  {
+    "name": "cerveja, pilsen 2",
+    "originalName": "Cerveja, pilsen 2",
+    "energy": 40.72018855062866,
+    "protein": 0.5625,
+    "fat": "Tr",
+    "carbs": 3.3175
+  },
+  {
+    "name": "cha, erva-doce, infusao 5%",
+    "originalName": "Chá, erva-doce, infusão 5%",
+    "energy": 1.3970599738756386,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0.3913333333333213
+  },
+  {
+    "name": "cha, mate, infusao 5%",
+    "originalName": "Chá, mate, infusão 5%",
+    "energy": 2.730749951124143,
+    "protein": 0,
+    "fat": 0.052,
+    "carbs": 0.6429999999999931
+  },
+  {
+    "name": "cha, preto, infusao 5%",
+    "originalName": "Chá, preto, infusão 5%",
+    "energy": 2.24790995796521,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0.6296666666666653
+  },
+  {
+    "name": "coco, agua de",
+    "originalName": "Coco, água de",
+    "energy": 21.50859424050649,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 5.284666666666672
+  },
+  {
+    "name": "refrigerante, tipo agua tonica",
+    "originalName": "Refrigerante, tipo água tônica",
+    "energy": 30.7794,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 7.953333333333339
+  },
+  {
+    "name": "refrigerante, tipo cola",
+    "originalName": "Refrigerante, tipo cola",
+    "energy": 33.514200000000045,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 8.66000000000001
+  },
+  {
+    "name": "refrigerante, tipo guarana",
+    "originalName": "Refrigerante, tipo guaraná",
+    "energy": 38.7,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 10
+  },
+  {
+    "name": "refrigerante, tipo laranja",
+    "originalName": "Refrigerante, tipo laranja",
+    "energy": 45.62730000000003,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 11.79
+  },
+  {
+    "name": "refrigerante, tipo limao",
+    "originalName": "Refrigerante, tipo limão",
+    "energy": 39.71910000000001,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 10.263333333333335
+  },
+  {
+    "name": "omelete, de queijo",
+    "originalName": "Omelete, de queijo",
+    "energy": 268.00677218242487,
+    "protein": 15.570833333333333,
+    "fat": 22.007666666666665,
+    "carbs": 0.43716666666666804
+  },
+  {
+    "name": "ovo, de codorna, inteiro, cru",
+    "originalName": "Ovo, de codorna, inteiro, cru",
+    "energy": 176.89389999999997,
+    "protein": 13.6875,
+    "fat": 12.68,
+    "carbs": 0.7724999999999986
+  },
+  {
+    "name": "ovo, de galinha, clara, cozida/10minutos",
+    "originalName": "Ovo, de galinha, clara, cozida/10minutos",
+    "energy": 59.43569666666667,
+    "protein": 13.447916666666668,
+    "fat": 0.08900000000000001,
+    "carbs": 0
+  },
+  {
+    "name": "ovo, de galinha, gema, cozida/10minutos",
+    "originalName": "Ovo, de galinha, gema, cozida/10minutos",
+    "energy": 352.67334000000005,
+    "protein": 15.9,
+    "fat": 30.777,
+    "carbs": 1.5600000000000065
+  },
+  {
+    "name": "ovo, de galinha, inteiro, cozido/10minutos",
+    "originalName": "Ovo, de galinha, inteiro, cozido/10minutos",
+    "energy": 145.70017,
+    "protein": 13.29375,
+    "fat": 9.476333333333333,
+    "carbs": 0.6149166666666736
+  },
+  {
+    "name": "ovo, de galinha, inteiro, cru",
+    "originalName": "Ovo, de galinha, inteiro, cru",
+    "energy": 143.11173333333335,
+    "protein": 13.03,
+    "fat": 8.9,
+    "carbs": 1.6366666666666725
+  },
+  {
+    "name": "ovo, de galinha, inteiro, frito",
+    "originalName": "Ovo, de galinha, inteiro, frito",
+    "energy": 240.1872240091165,
+    "protein": 15.616666666666667,
+    "fat": 18.592666666666666,
+    "carbs": 1.1936666666666627
+  },
+  {
+    "name": "achocolatado, po",
+    "originalName": "Achocolatado, pó",
+    "energy": 401.02,
+    "protein": 4.203333333333333,
+    "fat": 2.1666666666666665,
+    "carbs": 91.17666666666666
+  },
+  {
+    "name": "acucar, cristal",
+    "originalName": "Açúcar, cristal",
+    "energy": 386.84572399999996,
+    "protein": 0.32,
+    "fat": "Tr",
+    "carbs": 99.61
+  },
+  {
+    "name": "acucar, mascavo",
+    "originalName": "Açúcar, mascavo",
+    "energy": 368.55482252438867,
+    "protein": 0.7583333333333333,
+    "fat": 0.09200000000000001,
+    "carbs": 94.45
+  },
+  {
+    "name": "acucar, refinado",
+    "originalName": "Açúcar, refinado",
+    "energy": 386.5748239999999,
+    "protein": 0.32,
+    "fat": "Tr",
+    "carbs": 99.54
+  },
+  {
+    "name": "chocolate, ao leite",
+    "originalName": "Chocolate, ao leite",
+    "energy": 539.5866666666667,
+    "protein": 7.22,
+    "fat": 30.26666666666667,
+    "carbs": 59.576666666666675
+  },
+  {
+    "name": "chocolate, ao leite, com castanha do para",
+    "originalName": "Chocolate, ao leite, com castanha do Pará",
+    "energy": 558.8763333333334,
+    "protein": 7.4125,
+    "fat": 34.191,
+    "carbs": 55.37683333333334
+  },
+  {
+    "name": "chocolate, ao leite, dietetico",
+    "originalName": "Chocolate, ao leite, dietético",
+    "energy": 556.8243333333334,
+    "protein": 6.897916666666666,
+    "fat": 33.771,
+    "carbs": 56.32341666666667
+  },
+  {
+    "name": "chocolate, meio amargo",
+    "originalName": "Chocolate, meio amargo",
+    "energy": 474.91776997327383,
+    "protein": 4.862443432172139,
+    "fat": 29.856666666666666,
+    "carbs": 62.42288990116119
+  },
+  {
+    "name": "cocada branca",
+    "originalName": "Cocada branca",
+    "energy": 448.84545242331023,
+    "protein": 1.1218333737055461,
+    "fat": 13.586999999999998,
+    "carbs": 81.38316662629445
+  },
+  {
+    "name": "doce, de abobora, cremoso",
+    "originalName": "Doce, de abóbora, cremoso",
+    "energy": 198.9360630496343,
+    "protein": 0.9166666666666666,
+    "fat": 0.20666666666666667,
+    "carbs": 54.61333333333334
+  },
+  {
+    "name": "doce, de leite, cremoso",
+    "originalName": "Doce, de leite, cremoso",
+    "energy": 306.31013023105874,
+    "protein": 5.478293431599935,
+    "fat": 5.992999999999999,
+    "carbs": 59.49337323506673
+  },
+  {
+    "name": "geleia, mocoto, natural",
+    "originalName": "Geléia, mocotó, natural",
+    "energy": 106.08666666666662,
+    "protein": 2.125,
+    "fat": 0.07333333333333332,
+    "carbs": 24.231666666666662
+  },
+  {
+    "name": "glicose de milho",
+    "originalName": "Glicose de milho",
+    "energy": 292.1184052991867,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 79.38
+  },
+  {
+    "name": "maria mole",
+    "originalName": "Maria mole",
+    "energy": 301.2358875369997,
+    "protein": 3.8128501310348506,
+    "fat": 0.19,
+    "carbs": 73.55348320229848
+  },
+  {
+    "name": "maria mole, coco queimado",
+    "originalName": "Maria mole, coco queimado",
+    "energy": 306.6318969970185,
+    "protein": 3.9349501352310177,
+    "fat": 0.08933333333333333,
+    "carbs": 75.05938319810231
+  },
+  {
+    "name": "marmelada",
+    "originalName": "Marmelada",
+    "energy": 257.24147319380444,
+    "protein": 0.4,
+    "fat": 0.13733333333333334,
+    "carbs": 70.76333333333334
+  },
+  {
+    "name": "mel, de abelha",
+    "originalName": "Mel, de abelha",
+    "energy": 309.24266666666665,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 84.03333333333333
+  },
+  {
+    "name": "melado",
+    "originalName": "Melado",
+    "energy": 296.5064912319183,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 76.61666666666666
+  },
+  {
+    "name": "quindim",
+    "originalName": "Quindim",
+    "energy": 411.3487215708494,
+    "protein": 4.7375,
+    "fat": 24.425,
+    "carbs": 46.298833333333334
+  },
+  {
+    "name": "rapadura",
+    "originalName": "Rapadura",
+    "energy": 351.9581221015453,
+    "protein": 0.9895833333333333,
+    "fat": 0.07066666666666667,
+    "carbs": 90.79241666666667
+  },
+  {
+    "name": "cafe, po, torrado",
+    "originalName": "Café, pó, torrado",
+    "energy": 418.6186666666666,
+    "protein": 14.7,
+    "fat": 11.946666666666667,
+    "carbs": 65.75333333333332
+  },
+  {
+    "name": "capuccino, po",
+    "originalName": "Capuccino, pó",
+    "energy": 417.4066666666667,
+    "protein": 11.3125,
+    "fat": 8.633333333333333,
+    "carbs": 73.61416666666665
+  },
+  {
+    "name": "fermento em po, quimico",
+    "originalName": "Fermento em pó, químico",
+    "energy": 89.72206665112176,
+    "protein": 0.4753333187103272,
+    "fat": 0.07333333333333333,
+    "carbs": 43.91133334795634
+  },
+  {
+    "name": "fermento, biologico, levedura, tablete",
+    "originalName": "Fermento, biológico, levedura, tablete",
+    "energy": 89.79486703058885,
+    "protein": 16.956999478340148,
+    "fat": 1.5176666666666667,
+    "carbs": 7.698667188326523
+  },
+  {
+    "name": "gelatina, sabores variados, po",
+    "originalName": "Gelatina, sabores variados, pó",
+    "energy": 380.22290000000004,
+    "protein": 8.886666666666667,
+    "fat": "Tr",
+    "carbs": 89.22333333333333
+  },
+  {
+    "name": "sal, dietetico",
+    "originalName": "Sal, dietético",
+    "energy": "NA",
+    "protein": "NA",
+    "fat": "NA",
+    "carbs": "NA"
+  },
+  {
+    "name": "sal, grosso",
+    "originalName": "Sal, grosso",
+    "energy": "NA",
+    "protein": "NA",
+    "fat": "NA",
+    "carbs": "NA"
+  },
+  {
+    "name": "shoyu",
+    "originalName": "Shoyu",
+    "energy": 60.92774987538659,
+    "protein": 3.3125,
+    "fat": 0.32666666666666666,
+    "carbs": 11.6475
+  },
+  {
+    "name": "tempero a base de sal",
+    "originalName": "Tempero a base de sal",
+    "energy": 21.33,
+    "protein": 2.666666666666667,
+    "fat": 0.26333333333333336,
+    "carbs": 2.0733333333333377
+  },
+  {
+    "name": "azeitona, preta, conserva",
+    "originalName": "Azeitona, preta, conserva",
+    "energy": 194.1538470209837,
+    "protein": 1.1625,
+    "fat": 20.345,
+    "carbs": 5.544500000000004
+  },
+  {
+    "name": "azeitona, verde, conserva",
+    "originalName": "Azeitona, verde, conserva",
+    "energy": 136.93643000000003,
+    "protein": 0.9479166666666665,
+    "fat": 14.215666666666666,
+    "carbs": 4.101750000000001
+  },
+  {
+    "name": "chantilly, spray, com gordura vegetal",
+    "originalName": "Chantilly, spray, com gordura vegetal",
+    "energy": 314.9560002666667,
+    "protein": 0.525,
+    "fat": 27.270666666666667,
+    "carbs": 16.85500006666667
+  },
+  {
+    "name": "leite, de coco",
+    "originalName": "Leite, de coco",
+    "energy": 166.16030161554647,
+    "protein": 1.0140667031606039,
+    "fat": 18.364333333333335,
+    "carbs": 2.1945999635060494
+  },
+  {
+    "name": "maionese, tradicional com ovos",
+    "originalName": "Maionese, tradicional com ovos",
+    "energy": 302.1526776878237,
+    "protein": 0.58125,
+    "fat": 30.497666666666664,
+    "carbs": 7.899749999999999
+  },
+  {
+    "name": "acaraje",
+    "originalName": "Acarajé",
+    "energy": 289.21166666666664,
+    "protein": 8.345833333333335,
+    "fat": 19.930333333333333,
+    "carbs": 19.113833333333332
+  },
+  {
+    "name": "arroz carreteiro",
+    "originalName": "Arroz carreteiro",
+    "energy": 153.772,
+    "protein": 10.829166666666667,
+    "fat": 7.124,
+    "carbs": 11.584833333333329
+  },
+  {
+    "name": "baiao de dois, arroz e feijao-de-corda",
+    "originalName": "Baião de dois, arroz e feijão-de-corda",
+    "energy": 135.68133333333333,
+    "protein": 6.239583333333332,
+    "fat": 3.2279999999999998,
+    "carbs": 20.41775
+  },
+  {
+    "name": "barreado",
+    "originalName": "Barreado",
+    "energy": 164.9752340474129,
+    "protein": 18.26875,
+    "fat": 9.534,
+    "carbs": 0.23625
+  },
+  {
+    "name": "bife a cavalo, com contra file",
+    "originalName": "Bife à cavalo, com contra filé",
+    "energy": 291.2295092449586,
+    "protein": 23.660416666666663,
+    "fat": 21.146666666666665,
+    "carbs": 0
+  },
+  {
+    "name": "bolinho de arroz",
+    "originalName": "Bolinho de arroz",
+    "energy": 273.51433333333335,
+    "protein": 8.039583333333333,
+    "fat": 8.291666666666666,
+    "carbs": 41.682750000000006
+  },
+  {
+    "name": "camarao a baiana",
+    "originalName": "Camarão à baiana",
+    "energy": 100.78304300403595,
+    "protein": 7.941666666666666,
+    "fat": 5.967666666666667,
+    "carbs": 3.1736666666666653
+  },
+  {
+    "name": "charuto, de repolho",
+    "originalName": "Charuto, de repolho",
+    "energy": 78.23472922221822,
+    "protein": 6.779166666666665,
+    "fat": 1.1166666666666667,
+    "carbs": 10.133166666666673
+  },
+  {
+    "name": "cuscuz, de milho, cozido com sal",
+    "originalName": "Cuscuz, de milho, cozido com sal",
+    "energy": 113.45948166666666,
+    "protein": 2.15625,
+    "fat": 0.6796666666666665,
+    "carbs": 25.281416666666665
+  },
+  {
+    "name": "cuscuz, paulista",
+    "originalName": "Cuscuz, paulista",
+    "energy": 142.123,
+    "protein": 2.558333333333333,
+    "fat": 4.648333333333333,
+    "carbs": 22.513666666666666
+  },
+  {
+    "name": "cuxa, molho",
+    "originalName": "Cuxá, molho",
+    "energy": 80.09161563650767,
+    "protein": 5.64375,
+    "fat": 3.5926666666666667,
+    "carbs": 5.7389166666666656
+  },
+  {
+    "name": "dobradinha",
+    "originalName": "Dobradinha",
+    "energy": 124.50020083333331,
+    "protein": 19.772916666666664,
+    "fat": 4.442333333333333,
+    "carbs": 0
+  },
+  {
+    "name": "estrogonofe de carne",
+    "originalName": "Estrogonofe de carne",
+    "energy": 173.1413643180132,
+    "protein": 15.03125,
+    "fat": 10.802999999999999,
+    "carbs": 2.975416666666672
+  },
+  {
+    "name": "estrogonofe de frango",
+    "originalName": "Estrogonofe de frango",
+    "energy": 156.80610301323728,
+    "protein": 17.552083333333336,
+    "fat": 7.9623333333333335,
+    "carbs": 2.593916666666657
+  },
+  {
+    "name": "feijao tropeiro mineiro",
+    "originalName": "Feijão tropeiro mineiro",
+    "energy": 151.56185683095453,
+    "protein": 10.170833333333333,
+    "fat": 6.790666666666667,
+    "carbs": 19.58183333333333
+  },
+  {
+    "name": "feijoada",
+    "originalName": "Feijoada",
+    "energy": 116.9334573110342,
+    "protein": 8.670833333333333,
+    "fat": 6.477333333333334,
+    "carbs": 11.641833333333333
+  },
+  {
+    "name": "frango, com acafrao",
+    "originalName": "Frango, com açafrão",
+    "energy": 112.78376884122686,
+    "protein": 9.697916666666666,
+    "fat": 6.17,
+    "carbs": 4.062083333333325
+  },
+  {
+    "name": "macarrao, molho bolognesa",
+    "originalName": "Macarrão, molho bolognesa",
+    "energy": 119.53177144556008,
+    "protein": 4.934299834887187,
+    "fat": 0.8896666666666667,
+    "carbs": 22.522366831779475
+  },
+  {
+    "name": "manicoba",
+    "originalName": "Maniçoba",
+    "energy": 134.22289340098695,
+    "protein": 9.958333333333332,
+    "fat": 8.699333333333334,
+    "carbs": 3.419333333333327
+  },
+  {
+    "name": "quibebe",
+    "originalName": "Quibebe",
+    "energy": 86.349230299592,
+    "protein": 8.55625,
+    "fat": 2.672,
+    "carbs": 6.644083333333324
+  },
+  {
+    "name": "salada, de legumes, com maionese",
+    "originalName": "Salada, de legumes, com maionese",
+    "energy": 96.10358839845655,
+    "protein": 1.05,
+    "fat": 7.039000000000001,
+    "carbs": 8.923999999999994
+  },
+  {
+    "name": "salada, de legumes, cozida no vapor",
+    "originalName": "Salada, de legumes, cozida no vapor",
+    "energy": 35.40810429847241,
+    "protein": 2.00625,
+    "fat": 0.3116666666666667,
+    "carbs": 7.089083333333335
+  },
+  {
+    "name": "salpicao, de frango",
+    "originalName": "Salpicão, de frango",
+    "energy": 147.8645961340268,
+    "protein": 13.925,
+    "fat": 7.8406666666666665,
+    "carbs": 4.568999999999992
+  },
+  {
+    "name": "sarapatel",
+    "originalName": "Sarapatel",
+    "energy": 122.98185821243132,
+    "protein": 18.47291666666667,
+    "fat": 4.42,
+    "carbs": 1.09408333333334
+  },
+  {
+    "name": "tabule",
+    "originalName": "Tabule",
+    "energy": 57.45347668848058,
+    "protein": 2.046329973220825,
+    "fat": 1.208,
+    "carbs": 10.581003360112511
+  },
+  {
+    "name": "tacaca",
+    "originalName": "Tacacá",
+    "energy": 46.88917715120316,
+    "protein": 6.958333333333335,
+    "fat": 0.35966666666666663,
+    "carbs": 3.39
+  },
+  {
+    "name": "tapioca, com manteiga",
+    "originalName": "Tapioca, com manteiga",
+    "energy": 347.8265562578241,
+    "protein": 0.08958333333333332,
+    "fat": 10.908333333333333,
+    "carbs": 63.59175
+  },
+  {
+    "name": "tucupi, com pimenta-de-cheiro",
+    "originalName": "Tucupi, com pimenta-de-cheiro",
+    "energy": 27.1837984027266,
+    "protein": 2.05625,
+    "fat": 0.2836666666666667,
+    "carbs": 4.737749999999988
+  },
+  {
+    "name": "vaca atolada",
+    "originalName": "Vaca atolada",
+    "energy": 144.89697968479,
+    "protein": 5.122916666666667,
+    "fat": 9.322000000000001,
+    "carbs": 10.061416666666673
+  },
+  {
+    "name": "vatapa",
+    "originalName": "Vatapá",
+    "energy": 254.89328572415508,
+    "protein": 5.99783354918162,
+    "fat": 23.226333333333333,
+    "carbs": 9.748499784151715
+  },
+  {
+    "name": "virado a paulista",
+    "originalName": "Virado à paulista",
+    "energy": 306.94678645131984,
+    "protein": 10.18125,
+    "fat": 25.590666666666664,
+    "carbs": 14.10908333333333
+  },
+  {
+    "name": "yakisoba",
+    "originalName": "Yakisoba",
+    "energy": 112.80204125340781,
+    "protein": 7.5166666666666675,
+    "fat": 2.6069999999999998,
+    "carbs": 18.251333333333335
+  },
+  {
+    "name": "amendoim, grao, cru",
+    "originalName": "Amendoim, grão, cru",
+    "energy": 544.0526557994334,
+    "protein": 27.190800189971927,
+    "fat": 43.85,
+    "carbs": 20.313533333333336
+  },
+  {
+    "name": "amendoim, torrado, salgado",
+    "originalName": "Amendoim, torrado, salgado",
+    "energy": 605.7810929170192,
+    "protein": 22.475180157025655,
+    "fat": 53.96333333333334,
+    "carbs": 18.702486509641012
+  },
+  {
+    "name": "ervilha, em vagem",
+    "originalName": "Ervilha, em vagem",
+    "energy": 88.09358199977854,
+    "protein": 7.4520833333333325,
+    "fat": 0.47100000000000003,
+    "carbs": 14.227583333333328
+  },
+  {
+    "name": "ervilha, enlatada, drenada",
+    "originalName": "Ervilha, enlatada, drenada",
+    "energy": 73.8447043478261,
+    "protein": 4.597826086956522,
+    "fat": 0.38,
+    "carbs": 13.44217391304348
+  },
+  {
+    "name": "feijao, carioca, cozido",
+    "originalName": "Feijão, carioca, cozido",
+    "energy": 76.42408566666668,
+    "protein": 4.775,
+    "fat": 0.5423333333333334,
+    "carbs": 13.591033333333334
+  },
+  {
+    "name": "feijao, carioca, cru",
+    "originalName": "Feijão, carioca, cru",
+    "energy": 329.0267362318841,
+    "protein": 19.981884057971016,
+    "fat": 1.2566666666666666,
+    "carbs": 61.22144927536232
+  },
+  {
+    "name": "feijao, fradinho, cozido",
+    "originalName": "Feijão, fradinho, cozido",
+    "energy": 78.00889666666667,
+    "protein": 5.09375,
+    "fat": 0.644,
+    "carbs": 13.499583333333337
+  },
+  {
+    "name": "feijao, fradinho, cru",
+    "originalName": "Feijão, fradinho, cru",
+    "energy": 339.16476666666665,
+    "protein": 20.208333333333336,
+    "fat": 2.365,
+    "carbs": 61.24
+  },
+  {
+    "name": "feijao, jalo, cozido",
+    "originalName": "Feijão, jalo, cozido",
+    "energy": 92.73992,
+    "protein": 6.14375,
+    "fat": 0.512,
+    "carbs": 16.495250000000002
+  },
+  {
+    "name": "feijao, jalo, cru",
+    "originalName": "Feijão, jalo, cru",
+    "energy": 327.90526666666665,
+    "protein": 20.104166666666668,
+    "fat": 0.9466666666666667,
+    "carbs": 61.47916666666666
+  },
+  {
+    "name": "feijao, preto, cozido",
+    "originalName": "Feijão, preto, cozido",
+    "energy": 77.02726666666668,
+    "protein": 4.479166666666667,
+    "fat": 0.5356666666666666,
+    "carbs": 14.00516666666666
+  },
+  {
+    "name": "feijao, preto, cru",
+    "originalName": "Feijão, preto, cru",
+    "energy": 323.5657115942029,
+    "protein": 21.344202898550723,
+    "fat": 1.24,
+    "carbs": 58.75246376811595
+  },
+  {
+    "name": "feijao, rajado, cozido",
+    "originalName": "Feijão, rajado, cozido",
+    "energy": 84.7018527334929,
+    "protein": 5.5375,
+    "fat": 0.4,
+    "carbs": 15.2675
+  },
+  {
+    "name": "feijao, rajado, cru",
+    "originalName": "Feijão, rajado, cru",
+    "energy": 325.84441116273405,
+    "protein": 17.270833333333332,
+    "fat": 1.17,
+    "carbs": 62.92916666666667
+  },
+  {
+    "name": "feijao, rosinha, cozido",
+    "originalName": "Feijão, rosinha, cozido",
+    "energy": 67.86622877142827,
+    "protein": 4.539583333333333,
+    "fat": 0.47733333333333333,
+    "carbs": 11.822749999999997
+  },
+  {
+    "name": "feijao, rosinha, cru",
+    "originalName": "Feijão, rosinha, cru",
+    "energy": 336.9619111275673,
+    "protein": 20.916666666666668,
+    "fat": 1.33,
+    "carbs": 62.22333333333333
+  },
+  {
+    "name": "feijao, roxo, cozido",
+    "originalName": "Feijão, roxo, cozido",
+    "energy": 76.89338231790063,
+    "protein": 5.720833333333334,
+    "fat": 0.5383333333333334,
+    "carbs": 12.90816666666666
+  },
+  {
+    "name": "feijao, roxo, cru",
+    "originalName": "Feijão, roxo, cru",
+    "energy": 331.4149774567286,
+    "protein": 22.166666666666668,
+    "fat": 1.2366666666666666,
+    "carbs": 59.98666666666666
+  },
+  {
+    "name": "grao-de-bico, cru",
+    "originalName": "Grão-de-bico, cru",
+    "energy": 354.70287658909956,
+    "protein": 21.229166666666664,
+    "fat": 5.43,
+    "carbs": 57.88416666666667
+  },
+  {
+    "name": "guandu, cru",
+    "originalName": "Guandu, cru",
+    "energy": 344.1336512849927,
+    "protein": 18.964583333333334,
+    "fat": 2.132,
+    "carbs": 64.00041666666667
+  },
+  {
+    "name": "lentilha, cozida",
+    "originalName": "Lentilha, cozida",
+    "energy": 92.63876625229915,
+    "protein": 6.310416666666667,
+    "fat": 0.5246666666666667,
+    "carbs": 16.30224999999999
+  },
+  {
+    "name": "lentilha, crua",
+    "originalName": "Lentilha, crua",
+    "energy": 339.1412402035533,
+    "protein": 23.152173913043477,
+    "fat": 0.77,
+    "carbs": 62.00449275362318
+  },
+  {
+    "name": "pacoca, amendoim",
+    "originalName": "Paçoca, amendoim",
+    "energy": 486.9270864645243,
+    "protein": 15.995833333333334,
+    "fat": 26.075333333333333,
+    "carbs": 52.37616666666666
+  },
+  {
+    "name": "pe-de-moleque, amendoim",
+    "originalName": "Pé-de-moleque, amendoim",
+    "energy": 503.1903658399557,
+    "protein": 13.162240091959635,
+    "fat": 28.048333333333336,
+    "carbs": 54.73042657470704
+  },
+  {
+    "name": "soja, farinha",
+    "originalName": "Soja, farinha",
+    "energy": 403.955845810399,
+    "protein": 36.0301002407074,
+    "fat": 14.633333333333333,
+    "carbs": 38.43989975929261
+  },
+  {
+    "name": "soja, extrato soluvel, natural, fluido",
+    "originalName": "Soja, extrato solúvel, natural, fluido",
+    "energy": 39.10485527535076,
+    "protein": 2.3810700159072873,
+    "fat": 1.606,
+    "carbs": 4.275263333333342
+  },
+  {
+    "name": "soja, extrato soluvel, po",
+    "originalName": "Soja, extrato solúvel, pó",
+    "energy": 458.8957294378677,
+    "protein": 35.68750023841858,
+    "fat": 26.180999999999997,
+    "carbs": 28.482833333333335
+  },
+  {
+    "name": "soja, queijo (tofu)",
+    "originalName": "Soja, queijo (tofu)",
+    "energy": 64.48509407389021,
+    "protein": 6.553176710446675,
+    "fat": 3.953333333333333,
+    "carbs": 2.126823333333333
+  },
+  {
+    "name": "tremoco, cru",
+    "originalName": "Tremoço, cru",
+    "energy": 381.27817396012944,
+    "protein": 33.575,
+    "fat": 10.341999999999999,
+    "carbs": 43.786333333333324
+  },
+  {
+    "name": "tremoco, em conserva",
+    "originalName": "Tremoço, em conserva",
+    "energy": 120.64258534487091,
+    "protein": 11.108333333333333,
+    "fat": 3.7840000000000003,
+    "carbs": 12.38933333333334
+  },
+  {
+    "name": "amendoa, torrada, salgada",
+    "originalName": "Amêndoa, torrada, salgada",
+    "energy": 580.7469545560705,
+    "protein": 18.554759385108948,
+    "fat": 47.324333333333335,
+    "carbs": 29.547240000000002
+  },
+  {
+    "name": "castanha-de-caju, torrada, salgada",
+    "originalName": "Castanha-de-caju, torrada, salgada",
+    "energy": 570.167626501619,
+    "protein": 18.50936733277639,
+    "fat": 46.279666666666664,
+    "carbs": 29.13496600055695
+  },
+  {
+    "name": "castanha-do-brasil, crua",
+    "originalName": "Castanha-do-Brasil, crua",
+    "energy": 642.9630716810693,
+    "protein": 14.536340101559956,
+    "fat": 63.459,
+    "carbs": 15.078659898440039
+  },
+  {
+    "name": "coco, cru",
+    "originalName": "Coco, cru",
+    "energy": 406.4873531078099,
+    "protein": 3.69183412310697,
+    "fat": 41.976333333333336,
+    "carbs": 10.401665876893027
+  },
+  {
+    "name": "coco,  verde, cru",
+    "originalName": "Coco,  verde, cru",
+    "energy": "*",
+    "protein": "*",
+    "fat": "*",
+    "carbs": "*"
+  },
+  {
+    "name": "farinha, de mesocarpo de babacu, crua",
+    "originalName": "Farinha, de mesocarpo de babaçu, crua",
+    "energy": 328.7714002448336,
+    "protein": 1.4062667172749839,
+    "fat": 0.19800000000000004,
+    "carbs": 79.17306661605835
+  },
+  {
+    "name": "gergelim, semente",
+    "originalName": "Gergelim, semente",
+    "energy": 583.5467147545495,
+    "protein": 21.164667428334557,
+    "fat": 50.43266666666667,
+    "carbs": 21.617665904998766
+  },
+  {
+    "name": "linhaca, semente",
+    "originalName": "Linhaça, semente",
+    "energy": 495.09611384365076,
+    "protein": 14.083867173512777,
+    "fat": 32.25293333333334,
+    "carbs": 43.31219949315389
+  },
+  {
+    "name": "pinhao, cozido",
+    "originalName": "Pinhão, cozido",
+    "energy": 174.36990200000002,
+    "protein": 2.980366666666666,
+    "fat": 0.747,
+    "carbs": 43.917633333333335
+  },
+  {
+    "name": "pupunha, cozida",
+    "originalName": "Pupunha, cozida",
+    "energy": 218.53388087660073,
+    "protein": 2.5229166666666667,
+    "fat": 12.761666666666668,
+    "carbs": 29.569416666666662
+  },
+  {
+    "name": "noz, crua",
+    "originalName": "Noz, crua",
+    "energy": 620.0600197905668,
+    "protein": 13.9708005027771,
+    "fat": 59.35966666666667,
+    "carbs": 18.36386616388957
+  }
+]
